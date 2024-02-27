@@ -85,3 +85,5 @@ For answers to common questions about this code of conduct, see the FAQ at [http
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+
+![kasem signature](https://github.com/kasemsasa/305-SOFT-Group-19/assets/123503505/5d0efbab-f34c-4083-b9ba-64c3f646f10f)
