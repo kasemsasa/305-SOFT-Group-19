@@ -30,6 +30,14 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 
 Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
+## No Phone Policy
+
+* During group meetings, members are required to refrain from using their phones unless it's for a group-related activity or emergency purposes.
+* Phones should be kept on silent mode or turned off to minimize distractions and maintain focus during discussions and activities.
+* If a member needs to use their phone for a group-related task or emergency, they should inform the group leader or facilitator beforehand.
+* Any non-urgent phone calls or messages should be addressed outside of the meeting space to avoid disruption to the group's activities.
+* Members are encouraged to engage fully in group discussions and activities without the distraction of phones, fostering a collaborative and productive environment.
+
 ## Scope
 
 This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official email address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
