@@ -1,5 +1,5 @@
 # User Research
-# * Observation 1
+* Observation 1
     - blah blah blah
-# * Observation 2
+* Observation 2
     - blah blah blah
