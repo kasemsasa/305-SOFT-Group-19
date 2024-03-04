@@ -10,9 +10,10 @@
     - Team Action (if any):
       
 * Observation 3
-    - Observation Statement:
-    - Supporting Data:
-    - Team Action (if any):
+    - Observation Statement: The majority of respondents find it difficult to keep track or become aware of clubs and events on campus.
+    - Supporting Data: 60+% answered a score of 3 or less when asked how aware they are of the range of clubs and events on campus.
+                       80+% of respondents answered a score of 3 or less when asked how easy it is to keep track of upcoming campus events and club activities.
+    - Team Action (if any): There is demand for this kind of application on campus so we should further proceed with development.
       
 * Observation 4
     - Observation Statement: There is a notable concern about privacy among the respondents regarding Rhody Radar providing user data to event organizers, clubs, and advertisers.
