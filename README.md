@@ -60,7 +60,7 @@ Our primary customers are students and faculty of the University of Rhode Island
 If you're interested in contributing to the development of Rhody Radar, please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for instructions on how to get started.
 
 ## Contact
-For any inquiries or more information, please [open an issue](https://github.com/username/Rhody-Radar/issues/new) on this repository or contact us directly.
+For any inquiries or more information, please [open an issue](https://github.com/kasemsasa/305-SOFT-Group-19/issues/new) on this repository or contact us directly.
 
 ---
 © 2024 Rhody Radar Team, University of Rhode Island.
