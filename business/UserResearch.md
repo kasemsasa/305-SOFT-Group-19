@@ -15,9 +15,9 @@
     - Team Action (if any):
       
 * Observation 4
-    - Observation Statement:
-    - Supporting Data:
-    - Team Action (if any):
+    - Observation Statement: There is a notable concern about privacy among the respondents regarding Rhody Radar providing user data to event organizers, clubs, and advertisers.
+    - Supporting Data: Many respondents expressed they are "concerned with privacy" in response to how they feel about Rhody Radar providing user data and engagement metrics.
+    - Team Action (if any): Develop and communicate a clear privacy policy that addresses these concerns, possibly including options for users to control what information is shared.
       
 * Observation 5
     - Observation Statement: Respondents have varied interests in on-campus activities, including clubs, career fairs, and general events, suggesting a diverse target audience.
