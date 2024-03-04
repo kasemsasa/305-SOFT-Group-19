@@ -20,6 +20,6 @@
     - Team Action (if any):
       
 * Observation 5
-    - Observation Statement:
-    - Supporting Data:
-    - Team Action (if any):
+    - Observation Statement: Respondents have varied interests in on-campus activities, including clubs, career fairs, and general events, suggesting a diverse target audience.
+    - Supporting Data: Answers to "What on-campus activities do you or want to participate in?" (in our survey data) include a wide range of activities such as "Clubs," "On-Campus Jobs," "Career Fairs," and "General Events."
+    - Team Action (if any): Ensure Rhody Radar's content and recommendations cater to a broad spectrum of interests to engage this diverse audience effectively.
