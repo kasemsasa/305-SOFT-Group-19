@@ -11,7 +11,6 @@
 - [Key Metrics](#key-metrics)
 - [Cost Structure](#cost-structure)
 - [Revenue Streams](#revenue-streams)
-- [Development](#development)
 - [Contact](#contact)
 
 ## Introduction
@@ -55,9 +54,6 @@ Our primary customers are students and faculty of the University of Rhode Island
 - Sponsorships that will appear in the form of videos or blog posts that will create revenue for the app.
 - Featured content deals, where we will be collated through user data.
 - Analysis of user behavior or event attendance trends.
-
-## Development
-If you're interested in contributing to the development of Rhody Radar, please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for instructions on how to get started.
 
 ## Contact
 For any inquiries or more information, please [open an issue](https://github.com/kasemsasa/305-SOFT-Group-19/issues/new) on this repository or contact us directly.
