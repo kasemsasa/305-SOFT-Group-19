@@ -5,9 +5,9 @@
     - Team Action (if any): Our app should use Instagram in some way, shape or form, such as its API. 
       
 * Observation 2
-    - Observation Statement:
-    - Supporting Data:
-    - Team Action (if any):
+    - Observation Statement: A significant number of respondents are interested in receiving personalized recommendations for campus events and clubs.
+    - Supporting Data: Responses to "Would you be interested in receiving personalized recommendations for campus events and clubs based on your interests and past activities?" are predominantly "Yes".
+    - Team Action (if any): Implement a feature in Rhody Radar for personalized recommendations, ensuring it is well-integrated and user-friendly.
       
 * Observation 3
     - Observation Statement: The majority of respondents find it difficult to keep track or become aware of clubs and events on campus.
