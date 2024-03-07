@@ -1,0 +1,381 @@
+{
+    "data": {
+        "project": {
+            "apiComponents": {
+                "ApiContainer": {
+                    "id": "ApiContainer",
+                    "children": [
+                        {
+                            "type": "AdMob Interstitial",
+                            "translatedName": "AdMob Interstitial",
+                            "isApi": true,
+                            "reactType": "AdMobInterstitial",
+                            "properties": {
+                                "AdUnitID": "ca-app-pub-1741480551262126/4547985564",
+                                "AdUnitID_iOS": "",
+                                "TestMode": true
+                            },
+                            "children": [],
+                            "id": "c8951177-0fec-410f-9a5a-ac93940f086a",
+                            "thunkableVersion": 446,
+                            "name": "AdMob_Interstitial1"
+                        }
+                    ]
+                }
+            },
+            "assets": {
+                "65e9d44a373e0ce51e3052f6": {
+                    "name": "kasem gram.png",
+                    "originalname": "kasem gram.png",
+                    "externalStorageType": "GCS",
+                    "externalName": "users/65aea2f0bdfbccb613c6c8c8/projects/65e9d44a373e0ce51e3052f0/assets/65e9d44a373e0ce51e3052f6",
+                    "backendURI": "/project/65e9d44a373e0ce51e3052f0/getasset/65e9d44a373e0ce51e3052f6",
+                    "size": "102452",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "_id": "65e9d44a373e0ce51e3052f6",
+                    "createdAt": "2024-02-13T19:48:53.857Z",
+                    "updatedAt": "2024-02-13T19:48:53.857Z",
+                    "__v": 0,
+                    "id": "65e9d44a373e0ce51e3052f6",
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea2f0bdfbccb613c6c8c8/projects/65e9d44a373e0ce51e3052f0/assets/65e9d44a373e0ce51e3052f6?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240307%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240307T145055Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=70c679dafccba860877e80aaa975f67ceff526ca585bf43dd2489fb7724154af4732a47eb1f6c5a49a96a6d4007c9b4cdb0c3710a0526e278a18e618c2096a4287a8daef1d0d7eee911a0ed91c410dfe0a7bc81fd1ab337c582d3819ba7b79dc3987f09060eafe6308e68998d07217b70c10932569ea6d473a1b22eb086c2b3bc57eb7621952e536409e54255b812a7499cd39664f614e1ea07f99c8e8e348be946132e681d63db6ad3208f45712e1e403b814c165bffddb5d5fcc03c7fa91eff2772a44c8606e51fa5ea2123a5f2783a51ef8aa978c7fafd3a61a9e3b2ffc8b44ab2a5e14d0c734ffe0eb82e9e5471e253582035702b5c0f943c19b0c4bb9fa",
+                    "signedUrlExpirationTime": 1709995855843
+                },
+                "65e9d5ad373e0ce51e3136a6": {
+                    "externalStorageType": "GCS",
+                    "_id": "65e9d5ad373e0ce51e3136a6",
+                    "size": "24874",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "Rhode-Island-Rams-logo.png",
+                    "backendURI": "/project/65e9d44a373e0ce51e3052f0/getasset/65e9d5ad373e0ce51e3136a6",
+                    "name": "Rhode-Island-Rams-logo.png",
+                    "externalName": "users/65aea2f0bdfbccb613c6c8c8/projects/65e9d44a373e0ce51e3052f0/assets/65e9d5ad373e0ce51e3136a6",
+                    "createdAt": "2024-03-07T14:56:45.826Z",
+                    "updatedAt": "2024-03-07T14:56:45.826Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea2f0bdfbccb613c6c8c8/projects/65e9d44a373e0ce51e3052f0/assets/65e9d5ad373e0ce51e3136a6?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240307%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240307T145645Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=476e9a033123ea7f9d09fb5227e77b65f39910161a6a1d004da3fdcf48bd340f56b989c71f12c64df200137a5fc7faecd8c6d3f58341685ff372b1f856aa072bd61875179c1896e29f13e91e83059cf285b765b1a518d2f54de71651abced6548493d021cb5dfe797982858fcadd7445fb7ae698402d60b598888b3aa5e4096f86dc89448146124e2b86b423c4ffd98c1da3a6c2cd6a26602d6c9d3ac4e72ae4f3784a8e810e97be6007bb5a0e251ec6ac2074d6a98b5d0f77647aa7bb774bbfcd549882ddb33f06d65d886b7a297a50923d1846077ed7e45612883e146e8f37929b280f457f3647c6624e3932d5f8b36cb4a84a6ad7df20d5859ae86bba1b08",
+                    "signedUrlExpirationTime": 1709996205913
+                }
+            },
+            "backendUpgradeVersion": 24,
+            "blockly": {
+                "c863a6e7-70cd-4a0f-9aa4-5265dafefd5b": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "location": true,
+                        "iap": false
+                    }
+                },
+                "a11907ac-654a-49b8-ad9c-f28522cfe0ac": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "location": true,
+                        "iap": false
+                    }
+                }
+            },
+            "categories": [
+                "Education"
+            ],
+            "components": {
+                "children": [
+                    {
+                        "id": "c863a6e7-70cd-4a0f-9aa4-5265dafefd5b"
+                    },
+                    {
+                        "type": "Drawer Navigator",
+                        "translatedName": "Drawer Navigator",
+                        "reactType": "DrawerNavigator",
+                        "properties": {
+                            "DrawerPosition": "right",
+                            "TabNavigationOptions": {
+                                "tabBarVisible": true
+                            },
+                            "config": {
+                                "contentOptions": {
+                                    "drawerPosition": "right",
+                                    "drawerStyle": {
+                                        "width": 200
+                                    },
+                                    "drawerActiveTintColor": "rgba(255, 255, 255, 1)",
+                                    "drawerActiveBackgroundColor": "rgba(33, 43, 80, 1)",
+                                    "drawerInactiveTintColor": "rgba(255, 255, 255, 1)",
+                                    "drawerInactiveBackgroundColor": "rgba(33, 43, 80, 1)"
+                                }
+                            },
+                            "navigationOptions": {
+                                "tabBarVisible": true
+                            },
+                            "DrawerWidth": 200,
+                            "activeTintColor": "rgba(255, 255, 255, 1)",
+                            "activeBackgroundColor": "rgba(33, 43, 80, 1)",
+                            "inactiveTintColor": "rgba(255, 255, 255, 1)",
+                            "inactiveBackgroundColor": "rgba(33, 43, 80, 1)"
+                        },
+                        "children": [
+                            {
+                                "id": "a11907ac-654a-49b8-ad9c-f28522cfe0ac"
+                            }
+                        ],
+                        "id": "a2f56a04-f7a1-4ad9-b5ea-4228d9dd9845",
+                        "thunkableVersion": 444,
+                        "name": "Drawer_Navigator1"
+                    },
+                    {
+                        "id": "02f6b601-ad2f-4e36-9687-263bd090368e"
+                    },
+                    {
+                        "id": "fd010418-bf8b-4466-8858-8bd0332e088d"
+                    }
+                ]
+            },
+            "figmaComponents": {},
+            "description": null,
+            "icon": null,
+            "projectName": "Rhody Radar",
+            "settings": {
+                "teamId": null,
+                "appName": null,
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": "AIzaSyCBeXE8a5u3NHhqjb8O2ZvlVEMvrIkS5ko",
+                "firebaseDatabaseURL": "https://soft-group-19-default-rtdb.firebaseio.com",
+                "stripePublishableKeyTest": null,
+                "stripePublishableKeyLive": null,
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": null,
+                "imageRecognizerServerURL": null,
+                "imageRecognizerSubscriptionKey": null,
+                "cloudName": null,
+                "cloudinaryAPIKey": null,
+                "cloudinaryAPISecret": null,
+                "permissions": {
+                    "ios": {
+                        "usageDescriptions": {}
+                    }
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": "",
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "projectSettings": {
+                "teamId": null,
+                "appName": null,
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": "AIzaSyCBeXE8a5u3NHhqjb8O2ZvlVEMvrIkS5ko",
+                "firebaseDatabaseURL": "https://soft-group-19-default-rtdb.firebaseio.com",
+                "stripePublishableKeyTest": null,
+                "stripePublishableKeyLive": null,
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": null,
+                "imageRecognizerServerURL": null,
+                "imageRecognizerSubscriptionKey": null,
+                "cloudName": null,
+                "cloudinaryAPIKey": null,
+                "cloudinaryAPISecret": null,
+                "permissions": {
+                    "ios": {
+                        "usageDescriptions": {}
+                    }
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": "",
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "hasAdmob": true,
+            "hasBluetoothLowEnergy": null,
+            "hasPushNotification": false,
+            "hasAssistant": null,
+            "dataSourceLinks": [],
+            "localDataSources": [
+                {
+                    "id": "f04cc580-939b-4c86-873a-f829186e0fc9",
+                    "dataSource": {
+                        "id": "7e635e36-5dde-4b4c-ae8a-561dd564f203",
+                        "name": "Events",
+                        "owner": "65aea2f0bdfbccb613c6c8c8",
+                        "collections": [
+                            {
+                                "id": "a844d918-ecce-4886-9bc3-74856a03740c",
+                                "name": "Table 1",
+                                "label": "Table 1",
+                                "fields": [
+                                    {
+                                        "id": "73efc744-7b2c-4ec1-a87f-0520cbc845b0",
+                                        "name": "column1",
+                                        "label": "Image",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "72ce052b-74e0-404b-9c30-1f268f2bf8e8",
+                                        "name": "column2",
+                                        "label": "Title",
+                                        "type": "NUMBER"
+                                    },
+                                    {
+                                        "id": "b433d74d-f4fa-40b8-a047-0ebf9c12091d",
+                                        "label": "Decription",
+                                        "name": "column",
+                                        "type": "STRING"
+                                    }
+                                ],
+                                "data": {
+                                    "edges": [
+                                        {
+                                            "cursor": "d65fb99a-3c9d-4a77-a5e2-fd3689107d4b",
+                                            "node": {
+                                                "id": "f62717f4-2bc2-40f4-8bc3-9fa816ffe279",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "73efc744-7b2c-4ec1-a87f-0520cbc845b0",
+                                                        "value": "https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/gorhody.com/images/2020/11/18/D5C_0317.jpg"
+                                                    },
+                                                    {
+                                                        "fieldId": "72ce052b-74e0-404b-9c30-1f268f2bf8e8",
+                                                        "value": "URI Rhody Basketball"
+                                                    },
+                                                    {
+                                                        "fieldId": "b433d74d-f4fa-40b8-a047-0ebf9c12091d",
+                                                        "value": ""
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "b6017f70-c578-4bc8-be51-8f733db7b400",
+                                            "node": {
+                                                "id": "674a2603-8274-4a00-a33c-34d79fe458ef",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "73efc744-7b2c-4ec1-a87f-0520cbc845b0",
+                                                        "value": ""
+                                                    },
+                                                    {
+                                                        "fieldId": "72ce052b-74e0-404b-9c30-1f268f2bf8e8",
+                                                        "value": ""
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "1e577660-2fd2-41fe-b5f4-9be6f1c226d2",
+                                            "node": {
+                                                "id": "2b2573d0-e1f8-4452-9bc2-5af3f5319dd4",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "73efc744-7b2c-4ec1-a87f-0520cbc845b0",
+                                                        "value": ""
+                                                    },
+                                                    {
+                                                        "fieldId": "72ce052b-74e0-404b-9c30-1f268f2bf8e8",
+                                                        "value": ""
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "configuration": {
+                            "id": "0579d9d2-ce08-4429-ae5e-3bbd716c52cd",
+                            "name": "Events",
+                            "owner": "65aea2f0bdfbccb613c6c8c8",
+                            "type": "LOCAL"
+                        }
+                    }
+                }
+            ],
+            "customProperties": [],
+            "modules": [],
+            "usesDragDropUi": true,
+            "totalCopy": "0",
+            "totalStar": "0",
+            "starAction": "star",
+            "variables": {
+                "ab24b63b-2953-4484-991f-87013ad93fc1": {
+                    "scope": "APP",
+                    "name": "currentlySigningUp",
+                    "screenId": "c863a6e7-70cd-4a0f-9aa4-5265dafefd5b"
+                },
+                "560b5d28-9764-4f5d-a143-076e45331838": {
+                    "scope": "STORED",
+                    "name": "email",
+                    "screenId": "c863a6e7-70cd-4a0f-9aa4-5265dafefd5b"
+                },
+                "b43fb199-754c-4b01-a759-3cb2f411a852": {
+                    "scope": "STORED",
+                    "name": "password",
+                    "screenId": "c863a6e7-70cd-4a0f-9aa4-5265dafefd5b"
+                },
+                "51040482-2e21-499a-a4f1-dd4e6233a8b2": {
+                    "scope": "APP",
+                    "name": "session email",
+                    "screenId": "c863a6e7-70cd-4a0f-9aa4-5265dafefd5b"
+                },
+                "9cd28c1b-d8d8-4254-a5a3-3138919d5b1d": {
+                    "scope": "APP",
+                    "name": "user ID",
+                    "screenId": "c863a6e7-70cd-4a0f-9aa4-5265dafefd5b"
+                }
+            },
+            "defaultDesignerDevice": "PHONE",
+            "defaultDesignerOrientation": "PORTRAIT",
+            "schemaVersion": 2,
+            "organization": null,
+            "__typename": "Project"
+        }
+    }
+}
