@@ -1,4 +1,5 @@
 {
+    "id": "fd010418-bf8b-4466-8858-8bd0332e088d",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -717,7 +718,6 @@
             "name": "White Background1"
         }
     ],
-    "id": "fd010418-bf8b-4466-8858-8bd0332e088d",
     "thunkableVersion": 447,
     "name": "Screen2"
 }

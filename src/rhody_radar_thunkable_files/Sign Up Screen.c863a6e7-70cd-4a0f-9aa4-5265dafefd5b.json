@@ -1,4 +1,5 @@
 {
+    "id": "c863a6e7-70cd-4a0f-9aa4-5265dafefd5b",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -909,7 +910,6 @@
             "name": "White Background"
         }
     ],
-    "id": "c863a6e7-70cd-4a0f-9aa4-5265dafefd5b",
     "thunkableVersion": 443,
     "name": "Sign Up Screen"
 }

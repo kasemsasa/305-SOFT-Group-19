@@ -1,4 +1,5 @@
 {
+    "id": "02f6b601-ad2f-4e36-9687-263bd090368e",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -633,7 +634,6 @@
             "name": "Label8"
         }
     ],
-    "id": "02f6b601-ad2f-4e36-9687-263bd090368e",
     "thunkableVersion": 447,
     "name": "Activities_Selection_Screen"
 }

@@ -1,4 +1,5 @@
 {
+    "id": "a11907ac-654a-49b8-ad9c-f28522cfe0ac",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -30,7 +31,7 @@
             "justifyContent": "center",
             "alignItems": "center",
             "display": "flex",
-            "backgroundColor": "rgba(95, 104, 124, 1)"
+            "backgroundColor": "rgba(255, 255, 255, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -44,7 +45,7 @@
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
         "isSimple": true,
-        "BackgroundColor": "rgba(95, 104, 124, 1)"
+        "BackgroundColor": "rgba(255, 255, 255, 1)"
     },
     "children": [
         {
@@ -56,14 +57,14 @@
                 "FontSize": 16,
                 "Font": "",
                 "CustomFont": "",
-                "BackgroundColor": "rgba(33, 43, 80, 1)",
+                "BackgroundColor": "rgba(0, 33, 71, 1)",
                 "Height": 49,
                 "Width": 311,
                 "Visible": true,
                 "X": 34,
-                "Y": 249,
+                "Y": 117,
                 "RelativeX": 34,
-                "RelativeY": 249,
+                "RelativeY": 117,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -94,7 +95,7 @@
                 "Disabled": false,
                 "ParentId": "a11907ac-654a-49b8-ad9c-f28522cfe0ac",
                 "position": "absolute",
-                "edgeOffsets": 249.99999999999997
+                "edgeOffsets": 119
             },
             "children": [],
             "id": "d7b702f7-2a90-4152-9a58-e4c8031323df",
@@ -115,10 +116,10 @@
                 "Height": 49,
                 "Width": 315,
                 "Visible": true,
-                "X": 32,
-                "Y": 374,
-                "RelativeX": 32,
-                "RelativeY": 374,
+                "X": 29,
+                "Y": 550,
+                "RelativeX": 29,
+                "RelativeY": 550,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(255, 0, 0, 1)",
@@ -158,7 +159,7 @@
                 },
                 "ParentId": "a11907ac-654a-49b8-ad9c-f28522cfe0ac",
                 "position": "absolute",
-                "edgeOffsets": 374,
+                "edgeOffsets": 550,
                 "children": ""
             },
             "children": [],
@@ -175,14 +176,14 @@
                 "FontSize": 16,
                 "Font": "",
                 "CustomFont": "",
-                "BackgroundColor": "rgba(33, 43, 80, 1)",
+                "BackgroundColor": "rgba(0, 33, 71, 1)",
                 "Height": 51,
                 "Width": 313,
                 "Visible": true,
                 "X": 31,
-                "Y": 179,
+                "Y": 41,
                 "RelativeX": 31,
-                "RelativeY": 179,
+                "RelativeY": 41,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -213,82 +214,14 @@
                 "Disabled": false,
                 "ParentId": "a11907ac-654a-49b8-ad9c-f28522cfe0ac",
                 "position": "absolute",
-                "edgeOffsets": 179.00000000000003
+                "edgeOffsets": 41.00000000000003
             },
             "children": [],
             "id": "6d7a7ff9-ebf2-4f45-a0a5-addcf02ebbe1",
             "thunkableVersion": 444,
             "name": "Sign Out"
-        },
-        {
-            "type": "Label",
-            "translatedName": "Label",
-            "reactType": "Text",
-            "properties": {
-                "Text": "This is my profile app!",
-                "FontSize": 18,
-                "Font": "",
-                "CustomFont": "",
-                "LineHeight": 1,
-                "Color": "rgba(255, 255, 255, 1)",
-                "Height": 97,
-                "Width": 314,
-                "Visible": true,
-                "X": 32,
-                "Y": 32,
-                "RelativeX": 32,
-                "RelativeY": 32,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "color": "rgba(255, 255, 255, 1)",
-                    "fontSize": 18,
-                    "fontStyle": "normal",
-                    "letterSpacing": 0,
-                    "textDecorationLine": "none",
-                    "textDecorationStyle": "solid",
-                    "textDecorationColor": "rgba(0, 0, 0, 1)",
-                    "writingDirection": "auto",
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "flexWrap": "wrap",
-                    "borderWidth": 0,
-                    "borderRadius": 0,
-                    "borderColor": "rgba(236, 237, 237, 1)",
-                    "borderStyle": "solid",
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "10.666666666666666%",
-                    "top": "1.1080397301349325%",
-                    "lineHeight": 1,
-                    "display": "flex",
-                    "fontWeight": "bold"
-                },
-                "ParentId": "a11907ac-654a-49b8-ad9c-f28522cfe0ac",
-                "position": "absolute",
-                "edgeOffsets": 32,
-                "children": "This is my profile app!",
-                "FontWeight": "bold"
-            },
-            "children": [],
-            "id": "ae57b9a6-d129-4f92-8a67-64e7018600de",
-            "thunkableVersion": 444,
-            "name": "Label5"
         }
     ],
-    "id": "a11907ac-654a-49b8-ad9c-f28522cfe0ac",
     "thunkableVersion": 444,
     "name": "Sign Out Screen"
 }
