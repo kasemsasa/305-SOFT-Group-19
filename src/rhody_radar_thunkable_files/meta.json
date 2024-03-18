@@ -128,6 +128,17 @@
                         "location": true,
                         "iap": false
                     }
+                },
+                "fd010418-bf8b-4466-8858-8bd0332e088d": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "location": true,
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -170,18 +181,18 @@
                         },
                         "children": [
                             {
+                                "id": "02f6b601-ad2f-4e36-9687-263bd090368e"
+                            },
+                            {
+                                "id": "fd010418-bf8b-4466-8858-8bd0332e088d"
+                            },
+                            {
                                 "id": "a11907ac-654a-49b8-ad9c-f28522cfe0ac"
                             }
                         ],
                         "id": "a2f56a04-f7a1-4ad9-b5ea-4228d9dd9845",
                         "thunkableVersion": 444,
                         "name": "Drawer_Navigator1"
-                    },
-                    {
-                        "id": "02f6b601-ad2f-4e36-9687-263bd090368e"
-                    },
-                    {
-                        "id": "fd010418-bf8b-4466-8858-8bd0332e088d"
                     }
                 ]
             },
@@ -285,7 +296,53 @@
             "hasBluetoothLowEnergy": null,
             "hasPushNotification": false,
             "hasAssistant": null,
-            "dataSourceLinks": [],
+            "dataSourceLinks": [
+                {
+                    "id": "65f8742dc56bd2a07880a1a4",
+                    "dataSource": {
+                        "id": "65f8742b95258c5703c4ab83",
+                        "name": "Events On Campus",
+                        "configuration": {
+                            "id": "65f8742b4904614c594fb5b9",
+                            "type": "GOOGLE_SHEETS",
+                            "__typename": "GoogleSheetsDataSourceConfiguration"
+                        },
+                        "collections": [
+                            {
+                                "id": "65f8742d4904614c594fbb8d",
+                                "name": "0",
+                                "label": "Sheet1",
+                                "fields": [
+                                    {
+                                        "id": "65f875014904614c59511212",
+                                        "name": "98419896-0",
+                                        "label": "Image",
+                                        "type": "IMAGE",
+                                        "__typename": "DataSourceField"
+                                    },
+                                    {
+                                        "id": "65f875014904614c59511213",
+                                        "name": "1657342993-1",
+                                        "label": "Title",
+                                        "type": "STRING",
+                                        "__typename": "DataSourceField"
+                                    },
+                                    {
+                                        "id": "65f875014904614c59511214",
+                                        "name": "663007055-2",
+                                        "label": "Description",
+                                        "type": "STRING",
+                                        "__typename": "DataSourceField"
+                                    }
+                                ],
+                                "__typename": "DataSourceCollection"
+                            }
+                        ],
+                        "__typename": "DataSource"
+                    },
+                    "__typename": "DataSourceLink"
+                }
+            ],
             "localDataSources": [
                 {
                     "id": "f04cc580-939b-4c86-873a-f829186e0fc9",
@@ -388,7 +445,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "2",
+            "totalCopy": "8",
             "totalStar": "0",
             "starAction": "star",
             "variables": {

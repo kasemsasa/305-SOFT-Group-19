@@ -300,14 +300,14 @@
                 "Height": 444,
                 "Width": 335,
                 "Visible": true,
-                "X": 27,
-                "Y": 133,
-                "RelativeX": 27,
-                "RelativeY": 133,
+                "X": 22,
+                "Y": 140,
+                "RelativeX": 22,
+                "RelativeY": 140,
                 "ResizeMode": "STRETCH",
                 "ParentId": "fd010418-bf8b-4466-8858-8bd0332e088d",
                 "position": "absolute",
-                "edgeOffsets": 133,
+                "edgeOffsets": 140,
                 "style": {
                     "position": "absolute",
                     "left": "51.06666666666667%",
@@ -436,7 +436,7 @@
                                             "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
                                             "componentId": "8c388963-ebde-425e-ba37-a6a3cf52ac02",
                                             "property": "DataSourceTableBinding",
-                                            "column": "73efc744-7b2c-4ec1-a87f-0520cbc845b0",
+                                            "column": "65f875014904614c59511212",
                                             "row": 0
                                         }
                                     },
@@ -446,7 +446,8 @@
                             ],
                             "id": "22d5ee4d-57c6-44c5-99b5-6225550a01f1",
                             "thunkableVersion": 447,
-                            "name": "ImageWrapper"
+                            "name": "ImageWrapper",
+                            "bindings": {}
                         },
                         {
                             "type": "Row",
@@ -549,7 +550,7 @@
                                             "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
                                             "componentId": "8c388963-ebde-425e-ba37-a6a3cf52ac02",
                                             "property": "DataSourceTableBinding",
-                                            "column": "72ce052b-74e0-404b-9c30-1f268f2bf8e8",
+                                            "column": "65f875014904614c59511213",
                                             "row": 0
                                         }
                                     },
@@ -619,7 +620,7 @@
                                             "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
                                             "componentId": "8c388963-ebde-425e-ba37-a6a3cf52ac02",
                                             "property": "DataSourceTableBinding",
-                                            "column": "b433d74d-f4fa-40b8-a047-0ebf9c12091d",
+                                            "column": "65f875014904614c59511214",
                                             "row": 0
                                         }
                                     },
@@ -629,21 +630,23 @@
                             ],
                             "id": "a738215c-8039-440f-b856-a7421ed3fd09",
                             "thunkableVersion": 447,
-                            "name": "TitleAndSubtitleWrapper"
+                            "name": "TitleAndSubtitleWrapper",
+                            "bindings": {}
                         }
                     ],
                     "id": "692eb135-9e81-4608-90ed-3da223b48bf2",
                     "thunkableVersion": 447,
-                    "name": "LayoutWrapper"
+                    "name": "LayoutWrapper",
+                    "bindings": {}
                 }
             ],
             "id": "8c388963-ebde-425e-ba37-a6a3cf52ac02",
             "thunkableVersion": 447,
             "bindings": {
                 "DataSourceTableBinding": {
-                    "dataSourceLinkId": "f04cc580-939b-4c86-873a-f829186e0fc9",
-                    "collectionId": "a844d918-ecce-4886-9bc3-74856a03740c",
-                    "isLocal": true,
+                    "dataSourceLinkId": "65f8742dc56bd2a07880a1a4",
+                    "collectionId": "65f8742d4904614c594fbb8d",
+                    "isLocal": false,
                     "type": "DATA_SOURCE_TABLE"
                 }
             },
