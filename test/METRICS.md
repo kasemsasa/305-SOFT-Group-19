@@ -1,5 +1,6 @@
 [Google HEART framework](https://docs.google.com/presentation/d/15eCHSK0DUnF00R8eA2oMMlL9oRtyf8p_ZvA5GdR2UKw/edit?usp=sharing)
 
+<<<<<<< HEAD
 ### Metrics
 - NPS
 - Adoption
@@ -9,6 +10,8 @@
 - Error Mesage Rate
 - User Satisfaction Rating
 
+=======
+>>>>>>> 8767bb88d078acedfc6d21ade6a098307f73bd52
 # Metrics Collection
 
 [Google HEART Framework Presentation](link-to-google-slide)
@@ -25,7 +28,7 @@
 
 ## How to Collect
 
-- **NPS**: Implement a survey at the end of the Golden Path asking users how likely they are to recommend the product. Record responses in the database.
+- **NPS**: Implement a user satisfaction popup at the end of the Golden Path asking users how likely they are to recommend the product. Record responses in the database.
 - **Adoption**: Track authentication signups in Firebase.
 - **DAU**: Record daily active users by tracking login events in Firebase.
 - **Retention**: Calculate the percentage of users who return within a specified time frame (e.g., week, month) based on login activity.
