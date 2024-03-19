@@ -7,6 +7,7 @@
 - Retention 
 - CTR
 - Error Mesage Rate
+- User Satisfaction Rating
 
 # Metrics Collection
 
