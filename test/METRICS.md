@@ -11,7 +11,7 @@
 | DAU              | Daily Active Users                   |
 | Retention        | Percentage of users returning        |
 | CTR for completion of the Golden Path | Click-through rate for completing the primary user journey |
-| Error Message Rate | |
+| Error Message Rate | Amount of error messages before reaching golden path |
 | User Satisfaction Rate | |
 
 ## How to Collect
@@ -19,3 +19,4 @@
 - **Adoption**: Track authentication signups in Firebase.
 - **DAU**: Record daily active users by tracking login events in Firebase.
 - **Retention**: Calculate the percentage of users who return within a specified time frame (e.g., week, month) based on login activity.
+- **Error Message Rate**: Calculate the amount of error messages that occur before the user reaches the golden path screen.
