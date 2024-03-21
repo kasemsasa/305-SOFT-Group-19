@@ -12,7 +12,7 @@
 | Retention        | Percentage of users returning        |
 | CTR for completion of the Golden Path | Click-through rate for completing the primary user journey |
 | Error Message Rate | Amount of error messages before reaching golden path |
-| User Satisfaction Rate | |
+| User Satisfaction Rate | Open-ended feedback from the users showing their satisfaction level with the app|
 
 ## How to Collect
 - **NPS**: Implement a user satisfaction popup at the end of the Golden Path asking users how likely they are to recommend the product. Record responses in the database.
@@ -20,3 +20,4 @@
 - **DAU**: Record daily active users by tracking login events in Firebase.
 - **Retention**: Calculate the percentage of users who return within a specified time frame (e.g., week, month) based on login activity.
 - **Error Message Rate**: Calculate the amount of error messages that occur before the user reaches the golden path screen.
+- **User Satisfaction Rate**: Record data from surveys within the app that the users take to show their level of satisfaction when using the app.
