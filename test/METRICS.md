@@ -24,6 +24,6 @@
 - **Retention**: Calculate the percentage of users who return within a specified time frame (e.g., week, month) based on login activity.
 - **Error Message Rate**: Calculate the amount of error messages that occur before the user reaches the golden path screen.
 - **User Satisfaction Rate**: Record data from surveys within the app that the users take to show their level of satisfaction when using the app.
-- *Log-In Rate**: Track user login events each time a user successfully logs into their account.
+- **Log-In Rate**: Track user login events each time a user successfully logs into their account.
 - **Weekly Total Session Duration**: Start a timer when a user opens the app and stop it when the user closes the app or becomes inactive for a defined period (e.g., a few minutes).
 
