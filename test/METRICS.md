@@ -14,7 +14,7 @@
 | Error Message Rate | Amount of error messages before reaching golden path |
 | User Satisfaction Rate | Open-ended feedback from the users showing their satisfaction level with the app|
 | Log-In Rate | The frequency with which users log in to their accounts within the app|
-| Weekly Total Session Duration | the total duration of user sessions within the app over a one-week period|
+| Weekly Total Session Duration | The total duration of user sessions within the app over a one-week period|
 
 
 ## How to Collect
