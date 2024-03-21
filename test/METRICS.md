@@ -13,6 +13,9 @@
 | CTR for completion of the Golden Path | Click-through rate for completing the primary user journey |
 | Error Message Rate | Amount of error messages before reaching golden path |
 | User Satisfaction Rate | Open-ended feedback from the users showing their satisfaction level with the app|
+| Log-In Rate | The frequency with which users log in to their accounts within the app|
+| Weekly Total Session Duration | the total duration of user sessions within the app over a one-week period|
+
 
 ## How to Collect
 - **NPS**: Implement a user satisfaction popup at the end of the Golden Path asking users how likely they are to recommend the product. Record responses in the database.
@@ -21,3 +24,7 @@
 - **Retention**: Calculate the percentage of users who return within a specified time frame (e.g., week, month) based on login activity.
 - **Error Message Rate**: Calculate the amount of error messages that occur before the user reaches the golden path screen.
 - **User Satisfaction Rate**: Record data from surveys within the app that the users take to show their level of satisfaction when using the app.
+- *Log-In Rate**:
+- **User Satisfaction Rate**: Prompt users to rate their satisfaction directly within the app using a rating prompt or dialog box.
+- **Weekly Total Session Duration**: Start a timer when a user opens the app and stop it when the user closes the app or becomes inactive for a defined period (e.g., a few minutes).
+
