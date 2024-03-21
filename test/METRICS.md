@@ -22,6 +22,7 @@
 - **Adoption**: Track authentication signups in Firebase.
 - **DAU**: Record daily active users by tracking login events in Firebase.
 - **Retention**: Calculate the percentage of users who return within a specified time frame (e.g., week, month) based on login activity.
+- **CTR**: 
 - **Error Message Rate**: Calculate the amount of error messages that occur before the user reaches the golden path screen.
 - **User Satisfaction Rate**: Record data from surveys within the app that the users take to show their level of satisfaction when using the app.
 - **Log-In Rate**: Track user login events each time a user successfully logs into their account.
