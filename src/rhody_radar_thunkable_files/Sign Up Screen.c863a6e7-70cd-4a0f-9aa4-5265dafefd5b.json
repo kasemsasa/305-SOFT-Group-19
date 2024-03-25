@@ -164,8 +164,8 @@
             "translatedName": "Group",
             "reactType": "ViewWithProps",
             "properties": {
-                "Height": 73,
-                "Width": 383,
+                "Height": 75,
+                "Width": 385,
                 "Visible": true,
                 "X": 0,
                 "Y": 251,
@@ -177,7 +177,7 @@
                 "TouchOpacity": 20,
                 "ParentId": "c863a6e7-70cd-4a0f-9aa4-5265dafefd5b",
                 "position": "absolute",
-                "edgeOffsets": 248,
+                "edgeOffsets": 251,
                 "style": {
                     "position": "absolute",
                     "left": "3.3333333333333335%",
