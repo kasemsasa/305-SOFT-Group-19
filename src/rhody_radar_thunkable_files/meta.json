@@ -309,183 +309,33 @@
             "hasAssistant": null,
             "dataSourceLinks": [
                 {
-                    "id": "6600aa7a8259e43b0fd1ce39",
+                    "id": "6601ae849cbb653ea75d8f7c",
                     "dataSource": {
-                        "id": "6600aa7afe5307bbef562475",
-                        "name": "Events On Campus",
+                        "id": "6601ae83637240902b1c2898",
+                        "name": "Rhody Radar Ratings Sheet",
                         "configuration": {
-                            "id": "6600aa7a8259e43b0fd1ce03",
+                            "id": "6601ae8338ef71016847f0fa",
                             "type": "GOOGLE_SHEETS",
                             "__typename": "GoogleSheetsDataSourceConfiguration"
                         },
                         "collections": [
                             {
-                                "id": "6600aa7a3bdce0548bb5cb7f",
+                                "id": "6601ae84445fe804dcbc11d3",
                                 "name": "0",
-                                "label": "All Events",
+                                "label": "Sheet1",
                                 "fields": [
                                     {
-                                        "id": "6600aa7a3bdce0548bb5cb80",
-                                        "name": "98419896-0",
-                                        "label": "Image",
-                                        "type": "IMAGE",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "6600aa7a3bdce0548bb5cb81",
-                                        "name": "1657342993-1",
-                                        "label": "Title",
+                                        "id": "6601ae84445fe804dcbc11d4",
+                                        "name": "479939865-0",
+                                        "label": "Rating",
                                         "type": "STRING",
                                         "__typename": "DataSourceField"
                                     },
                                     {
-                                        "id": "6600aa7a3bdce0548bb5cb82",
-                                        "name": "663007055-2",
-                                        "label": "Date",
-                                        "type": "DATE",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "6600aa7a3bdce0548bb5cb83",
-                                        "name": "1559585798-3",
-                                        "label": "Location",
+                                        "id": "6601ae84445fe804dcbc11d5",
+                                        "name": "1528672578-1",
+                                        "label": "Feedback",
                                         "type": "STRING",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "6600aa7a3bdce0548bb5cb84",
-                                        "name": "739176454-4",
-                                        "label": "Description",
-                                        "type": "PARAGRAPH",
-                                        "__typename": "DataSourceField"
-                                    }
-                                ],
-                                "__typename": "DataSourceCollection"
-                            },
-                            {
-                                "id": "6600aa7a3bdce0548bb5cb85",
-                                "name": "360530680",
-                                "label": "Clubs/Organizations",
-                                "fields": [
-                                    {
-                                        "id": "6600aa7a3bdce0548bb5cb86",
-                                        "name": "1956742164-0",
-                                        "label": "Image",
-                                        "type": "IMAGE",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "6600aa7a3bdce0548bb5cb87",
-                                        "name": "987527869-1",
-                                        "label": "Title",
-                                        "type": "STRING",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "6600aa7a3bdce0548bb5cb88",
-                                        "name": "1080570382-2",
-                                        "label": "Date",
-                                        "type": "DATE",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "6600aa7a3bdce0548bb5cb89",
-                                        "name": "1008890994-3",
-                                        "label": "Location",
-                                        "type": "STRING",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "6600aa7a3bdce0548bb5cb8a",
-                                        "name": "1106222-4",
-                                        "label": "Description",
-                                        "type": "PARAGRAPH",
-                                        "__typename": "DataSourceField"
-                                    }
-                                ],
-                                "__typename": "DataSourceCollection"
-                            },
-                            {
-                                "id": "6600aa7a3bdce0548bb5cb8b",
-                                "name": "1297069212",
-                                "label": "On Campus Events",
-                                "fields": [
-                                    {
-                                        "id": "6600aa7a3bdce0548bb5cb8c",
-                                        "name": "633699231-0",
-                                        "label": "Image",
-                                        "type": "STRING",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "6600aa7a3bdce0548bb5cb8d",
-                                        "name": "598431329-1",
-                                        "label": "Title",
-                                        "type": "STRING",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "6600aa7a3bdce0548bb5cb8e",
-                                        "name": "1981600076-2",
-                                        "label": "Date",
-                                        "type": "STRING",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "6600aa7a3bdce0548bb5cb8f",
-                                        "name": "193913251-3",
-                                        "label": "Location",
-                                        "type": "STRING",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "6600aa7a3bdce0548bb5cb90",
-                                        "name": "1190160166-4",
-                                        "label": "Description",
-                                        "type": "STRING",
-                                        "__typename": "DataSourceField"
-                                    }
-                                ],
-                                "__typename": "DataSourceCollection"
-                            },
-                            {
-                                "id": "6600aa7a3bdce0548bb5cb91",
-                                "name": "1038577168",
-                                "label": "Sporting Events",
-                                "fields": [
-                                    {
-                                        "id": "6600aa7a3bdce0548bb5cb92",
-                                        "name": "427515142-0",
-                                        "label": "Image",
-                                        "type": "IMAGE",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "6600aa7a3bdce0548bb5cb93",
-                                        "name": "759797485-1",
-                                        "label": "Title",
-                                        "type": "STRING",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "6600aa7a3bdce0548bb5cb94",
-                                        "name": "1188729968-2",
-                                        "label": "Date",
-                                        "type": "DATE",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "6600aa7a3bdce0548bb5cb95",
-                                        "name": "870000479-3",
-                                        "label": "Location",
-                                        "type": "STRING",
-                                        "__typename": "DataSourceField"
-                                    },
-                                    {
-                                        "id": "6600aa7a3bdce0548bb5cb96",
-                                        "name": "1016118125-4",
-                                        "label": "Description",
-                                        "type": "PARAGRAPH",
                                         "__typename": "DataSourceField"
                                     }
                                 ],
@@ -692,7 +542,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "11",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
