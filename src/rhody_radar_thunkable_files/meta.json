@@ -730,6 +730,11 @@
                     "scope": "CLOUD",
                     "name": "name",
                     "screenId": "02f6b601-ad2f-4e36-9687-263bd090368e"
+                },
+                "7625cc79-2d88-43de-b0d7-d97fda23ce29": {
+                    "scope": "CLOUD",
+                    "name": "error-metric",
+                    "screenId": "c863a6e7-70cd-4a0f-9aa4-5265dafefd5b"
                 }
             },
             "defaultDesignerDevice": "PHONE",
