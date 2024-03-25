@@ -161,7 +161,7 @@
             "type": "Button",
             "translatedName": "Button",
             "properties": {
-                "Text": "Next",
+                "Text": "Go to Event Feed",
                 "TextColor": "#FFFFFF",
                 "FontSize": 16,
                 "Font": "",
@@ -209,7 +209,7 @@
             "children": [],
             "id": "99cc2f5b-a02a-4852-8a41-f69f8a1adae0",
             "thunkableVersion": 447,
-            "name": "Next_Button"
+            "name": "feed_btn"
         },
         {
             "type": "Checkbox",
