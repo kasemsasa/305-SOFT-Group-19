@@ -1,8 +1,22 @@
 A/B Test name: Phrasing of the Rating System
 User Story Number: US6 
 Metric: Happiness
-Hypothesis: The specific way a request for a rating/feedback is said can affect a user's decision to rate/give feedback to the product. For instance, "Would it be okay for you to review this?" is kind, but may be a bit too passive, leading people to not rate or respond. "REVIEW THIS NOW!!!" Is way too rude, and may result in lower ratings. For the feedback, providing (optional) makes users realize they do not have to provide feedback, but that would also mean less users will feel inclined to do so. As such, you must determine the best way to prompt the user to provide feedback and a rating. To test this, we first make multiple versions of the app, the only difference being how the rating page is worded. In the ratings table, we will provide an additional table, called version, and then we will measure which version has the most ratings, and which version has the highest ratings. We should get a nice combination of most ratings and highest ratings, but we should prioritize higher ratings over more ratings. 
-
+Hypothesis: The specific way a request for a rating/feedback is said can affect a user's decision to rate/give feedback to the product. For instance, "Would it be okay for you to review this?" is kind, but may be a bit too passive, leading people to not rate or respond. "REVIEW THIS NOW!!!" Is way too rude, and may result in lower ratings. For the feedback, providing (optional) makes users realize they do not have to provide feedback, but that would also mean less users will feel inclined to do so. As such, you must determine the best way to prompt the user to provide feedback and a rating. 
+Experiment: To test this, we first make multiple versions of the app, the only difference being how the rating page is worded. In the ratings table, we will provide an additional table, called version, and then we will measure which version has the most ratings, and which version has the highest ratings. We should get a nice combination of most ratings and highest ratings, but we should prioritize higher ratings over more ratings.
+Variations:
+    - "How would you rate your experience?"/"(Optional) Please Provide feedback explaining your rating:"
+    - "How would you rate your experience?"/"(Optional) Provide feedback explaining your rating:"
+    - "How would you rate your experience?"/"(Optional) Please Provide feedback:"
+    - "How would you rate your experience?"/"Please Provide feedback explaining your rating:"
+    - "How would you rate your experience?"/"Provide feedback explaining your rating:"
+    - "How would you rate your experience?"/"Please Provide feedback:"
+    - "Rate this App!"/"(Optional) Please Provide feedback explaining your rating:"
+    - "Rate this App!"/"(Optional) Provide feedback explaining your rating:"
+    - "Rate this App!"/"(Optional) Please Provide feedback:"
+    - "Rate this App!"/"Please Provide feedback explaining your rating:"
+    - "Rate this App!"/"Provide feedback explaining your rating:"
+    - "Rate this App!"/"Please Provide feedback:"
+    
 A/B Test Name: Dark Mode Impact on User Engagement
 User Story Number: (Assign a unique number that corresponds to your backlog of user stories or features, if applicable.)
 Metric (from the HEART grid): Engagement – measured by daily active users and user time spent in the app.
