@@ -94,3 +94,34 @@ Initially, allocate 40% of the user base to the experiment group, while the rema
 - The control group ensures a baseline for comparison, allowing for accurate measurement of the experiment's impact.
 - Utilizing Firebase Analytics facilitates precise tracking of metrics, enabling informed decision-making based on experiment outcomes.
 
+## A/B Test Name:
+Search Bar Placement Optimization
+## User Story Number:
+N/A
+## Metric (grid):
+Engagement: We will measure the engagement metric, specifically focusing on the number of searches performed by users during the testing period.
+## Hypothesis:
+We hypothesize that optimizing the placement of the search bar within the app will lead to increased user engagement with the search feature. By placing the search bar in a more prominent and accessible location, users will be more likely to utilize it to discover events and clubs, thus improving their overall experience with the app.
+## Experiment:
+We will conduct the experiment by testing two variations of the search bar placement:
+## Variation A (Control):
+Search bar placed at the top of the screen, adjacent to the app's title/logo.
+All users will see this variation by default.
+## Variation B (Experimental):
+Search bar moved to the bottom of the screen, positioned within easy reach of the user's thumb.
+50% of the user base will be randomly allocated to this variation to ensure a fair comparison.
+Tracking Using Firebase Analytics:
+To measure the success of the experiment, we will track the following metrics using Firebase Analytics:
+**Number of Searches:** Track the total number of searches performed by users in both variations.
+**Time Spent Searching:** Measure the average time users spend using the search feature in each variation.
+**Search Result Click-through Rate:** Monitor the percentage of users who click on search results after performing a search in each variation.
+## Variations:
+Here are the proposed variations for the search bar placement:
+Variation A (Control):
+
+In this variation, the search bar is located at the top of the screen, providing users with easy access to initiate a search query. This placement is consistent with standard app design conventions.
+Variation B (Experimental):
+
+In this experimental variation, the search bar is moved to the bottom of the screen, making it more accessible for users with larger devices or those using one-handed navigation. This placement aims to enhance user convenience and encourage greater engagement with the search feature.
+## Rationale:
+The rationale behind testing the search bar placement is to optimize user experience and increase engagement with the search functionality. By comparing the two variations, we aim to identify the most effective placement that encourages users to utilize the search feature more frequently, leading to improved engagement metrics.
