@@ -16,7 +16,9 @@ Variations:
     - "Rate this App!"/"Please Provide feedback explaining your rating:"
     - "Rate this App!"/"Provide feedback explaining your rating:"
     - "Rate this App!"/"Please Provide feedback:"
-    
+
+---
+
 A/B Test Name: Dark Mode Impact on User Engagement
 User Story Number: (Assign a unique number that corresponds to your backlog of user stories or features, if applicable.)
 Metric (from the HEART grid): Engagement – measured by daily active users and user time spent in the app.
@@ -29,3 +31,44 @@ Variations:
 Control (A): The current light mode of the app.
 Variant (B): An alternative design with a dark mode theme.
 Design Work and Mockups: (Here, you would include mockups and designs of the dark mode interface. Since we're conceptualizing this plan, I can’t provide actual designs, but you would want diagrams that show the user interface changes between light and dark modes.)
+
+---
+## A/B Test Name
+Feature Engagement Experiment
+
+## User Story Number
+TBD
+
+## Metric (from the HEART grid)
+Retention
+
+## Hypothesis
+### Problem
+Analysis reveals that a considerable portion of users show low engagement levels with core features shortly after onboarding.
+### Impact
+Improving feature engagement shortly after onboarding could lead to higher retention rates and increased user satisfaction.
+### Hypothesis
+By implementing an interactive tutorial showcasing key features immediately after login, users will have a better understanding of the app's value proposition, leading to improved retention rates.
+
+## Experiment Setup
+### Audience
+Initially, allocate 40% of the user base to the experiment group, while the remaining 60% serves as the control group. This split allows for a significant experimental sample while minimizing potential negative impacts on the majority of users.
+### Experiment Details
+- **Experimental Group:** Upon successful login, users will be guided through an interactive tutorial highlighting core features through tooltips and guided interactions.
+- **Control Group:** Users will experience the standard onboarding flow without the additional tutorial.
+
+## Tracking using Firebase Analytics
+1. **Log-In Rate:** Track successful login events for both experimental and control groups.
+2. **Weekly Total Session Duration:** Monitor session durations for users in both groups to understand how engagement levels change over time.
+3. **Retention:** Calculate retention rates for both groups over a specified time frame (e.g., weekly or monthly), based on login activity.
+
+## Variations
+### Design Variation
+- **Experimental Group:** Users encounter a series of tooltips upon login, guiding them through key features. Each tooltip highlights a specific feature with a brief explanation and prompts the user to interact.
+- **Control Group:** Users experience the standard login flow without any additional tooltips or guidance.
+
+## Rationale
+- The experimental design aims to improve feature comprehension and user engagement through interactive guidance.
+- The control group ensures a baseline for comparison, allowing for accurate measurement of the experiment's impact.
+- Utilizing Firebase Analytics facilitates precise tracking of metrics, enabling informed decision-making based on experiment outcomes.
+
