@@ -113,8 +113,11 @@ Search bar moved to the bottom of the screen, positioned within easy reach of th
 Tracking Using Firebase Analytics:
 To measure the success of the experiment, we will track the following metrics using Firebase Analytics:
 **Number of Searches:** Track the total number of searches performed by users in both variations.
+
 **Time Spent Searching:** Measure the average time users spend using the search feature in each variation.
+
 **Search Result Click-through Rate:** Monitor the percentage of users who click on search results after performing a search in each variation.
+
 ## Variations:
 Here are the proposed variations for the search bar placement:
 Variation A (Control):
