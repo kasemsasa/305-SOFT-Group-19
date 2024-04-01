@@ -109,7 +109,7 @@
             "id": "397413e0-bf31-47e7-aaaf-1a5a3e416244",
             "thunkableVersion": 450,
             "bindings": null,
-            "name": "Go to Fee Button"
+            "name": "Go to Feed Button"
         },
         {
             "type": "Button",

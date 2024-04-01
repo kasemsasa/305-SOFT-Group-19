@@ -206,6 +206,17 @@
                         "location": true,
                         "iap": false
                     }
+                },
+                "7c8be5b1-a38e-419d-82b7-c324198cae65": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "location": true,
+                        "iap": false
+                    }
                 }
             },
             "categories": [
