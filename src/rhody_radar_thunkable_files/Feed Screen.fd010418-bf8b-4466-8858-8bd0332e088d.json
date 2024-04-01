@@ -83,6 +83,60 @@
                     "type": "Button",
                     "translatedName": "Button",
                     "properties": {
+                        "Text": "Follow",
+                        "TextColor": "rgba(8, 8, 8, 1)",
+                        "FontSize": 16,
+                        "Font": "",
+                        "CustomFont": "",
+                        "BackgroundColor": "rgba(103, 202, 255, 1)",
+                        "Height": 39,
+                        "Width": 125,
+                        "Visible": true,
+                        "X": 128,
+                        "Y": 538,
+                        "RelativeX": 109,
+                        "RelativeY": 398,
+                        "ResizeMode": "STRETCH",
+                        "style": {
+                            "marginTop": 0,
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingLeft": 0,
+                            "paddingRight": 0,
+                            "borderRadius": 15,
+                            "shadowColor": "rgba(0, 0, 0, 0)",
+                            "shadowOpacity": 0,
+                            "scaledShadowOpacity": 0,
+                            "shadowRadius": 0,
+                            "shadowOffset": {
+                                "width": 0,
+                                "height": 0
+                            },
+                            "position": "absolute",
+                            "left": "14.465285237630209%",
+                            "top": "64.53567327049781%",
+                            "display": "flex"
+                        },
+                        "FontBold": true,
+                        "FontItalic": false,
+                        "Raised": false,
+                        "Disabled": false,
+                        "ParentId": "fd010418-bf8b-4466-8858-8bd0332e088d",
+                        "position": "absolute",
+                        "edgeOffsets": 538
+                    },
+                    "children": [],
+                    "id": "7d2ff136-e01b-4897-a2ec-dc8cd342cc79",
+                    "thunkableVersion": 450,
+                    "name": "follow_btn"
+                },
+                {
+                    "type": "Button",
+                    "translatedName": "Button",
+                    "properties": {
                         "Text": "X",
                         "TextColor": "#FFFFFF",
                         "FontSize": 16,
@@ -144,13 +198,13 @@
                         "CustomFont": "",
                         "LineHeight": 1,
                         "Color": "rgba(0, 0, 0, 1)",
-                        "Height": 154,
-                        "Width": 315,
+                        "Height": 103,
+                        "Width": 326,
                         "Visible": true,
-                        "X": 26,
-                        "Y": 422,
-                        "RelativeX": 7,
-                        "RelativeY": 282,
+                        "X": -5.6770830154418945,
+                        "Y": 421.9921875,
+                        "RelativeX": -24.677083015441895,
+                        "RelativeY": 281.9921875,
                         "ResizeMode": "STRETCH",
                         "style": {
                             "color": "rgba(0, 0, 0, 1)",
@@ -191,7 +245,7 @@
                         },
                         "ParentId": "fd010418-bf8b-4466-8858-8bd0332e088d",
                         "position": "absolute",
-                        "edgeOffsets": 422.00000000000006,
+                        "edgeOffsets": 421.9921875,
                         "children": ""
                     },
                     "children": [],
@@ -375,7 +429,7 @@
                     "children": [],
                     "id": "34e3db6c-26f5-4644-9bbe-b4d47870872f",
                     "thunkableVersion": 450,
-                    "name": "deatil_image"
+                    "name": "detail_image"
                 }
             ],
             "id": "cd4da781-2286-4506-b675-5a40bf21f9db",
@@ -390,7 +444,7 @@
             "properties": {
                 "Height": 650,
                 "Width": 375,
-                "Visible": true,
+                "Visible": false,
                 "X": 0,
                 "Y": 0,
                 "RelativeX": 0,
@@ -406,7 +460,7 @@
                     "position": "absolute",
                     "left": "20.99181058114035%",
                     "top": "57.15235070614899%",
-                    "display": "flex",
+                    "display": "none",
                     "backgroundColor": "rgba(255, 255, 255, 1)"
                 },
                 "resizeMode": "contain",
@@ -944,60 +998,6 @@
             "name": "Settings"
         },
         {
-            "type": "Button",
-            "translatedName": "Button",
-            "properties": {
-                "Text": "Preferences",
-                "TextColor": "#FFFFFF",
-                "FontSize": 16,
-                "Font": "",
-                "CustomFont": "",
-                "BackgroundColor": "rgba(0, 33, 71, 1)",
-                "Height": 53,
-                "Width": 100,
-                "Visible": true,
-                "X": 26,
-                "Y": 596,
-                "RelativeX": 26,
-                "RelativeY": 596,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "borderRadius": 15,
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "22.830195690287102%",
-                    "top": "88.04207750573343%",
-                    "display": "flex"
-                },
-                "FontBold": false,
-                "FontItalic": false,
-                "Raised": false,
-                "Disabled": false,
-                "ParentId": "fd010418-bf8b-4466-8858-8bd0332e088d",
-                "position": "absolute",
-                "edgeOffsets": 596
-            },
-            "children": [],
-            "id": "433cf5f2-5ade-4cac-b5d3-a6651bcc08c1",
-            "thunkableVersion": 447,
-            "name": "Prefrences"
-        },
-        {
             "type": "Label",
             "translatedName": "Label",
             "reactType": "Text",
@@ -1230,7 +1230,7 @@
                                             "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
                                             "componentId": "8c388963-ebde-425e-ba37-a6a3cf52ac02",
                                             "property": "DataSourceTableBinding",
-                                            "column": "6600aa7a3bdce0548bb5cb80",
+                                            "column": "73efc744-7b2c-4ec1-a87f-0520cbc845b0",
                                             "row": 0
                                         }
                                     },
@@ -1344,7 +1344,7 @@
                                             "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
                                             "componentId": "8c388963-ebde-425e-ba37-a6a3cf52ac02",
                                             "property": "DataSourceTableBinding",
-                                            "column": "6600aa7a3bdce0548bb5cb81",
+                                            "column": "72ce052b-74e0-404b-9c30-1f268f2bf8e8",
                                             "row": 0
                                         }
                                     },
@@ -1414,7 +1414,7 @@
                                             "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
                                             "componentId": "8c388963-ebde-425e-ba37-a6a3cf52ac02",
                                             "property": "DataSourceTableBinding",
-                                            "column": "6600aa7a3bdce0548bb5cb82",
+                                            "column": "b433d74d-f4fa-40b8-a047-0ebf9c12091d",
                                             "row": 0
                                         }
                                     },
@@ -1438,9 +1438,9 @@
             "thunkableVersion": 447,
             "bindings": {
                 "DataSourceTableBinding": {
-                    "dataSourceLinkId": "6600aa7a8259e43b0fd1ce39",
-                    "collectionId": "6600aa7a3bdce0548bb5cb7f",
-                    "isLocal": false,
+                    "dataSourceLinkId": "f04cc580-939b-4c86-873a-f829186e0fc9",
+                    "collectionId": "a844d918-ecce-4886-9bc3-74856a03740c",
+                    "isLocal": true,
                     "type": "DATA_SOURCE_TABLE"
                 }
             },

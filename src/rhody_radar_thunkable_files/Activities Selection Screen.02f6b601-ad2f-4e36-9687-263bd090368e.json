@@ -239,7 +239,7 @@
             "children": [],
             "id": "e2535c36-d0f6-4906-95c9-4d1d0902c4b2",
             "thunkableVersion": 447,
-            "name": "Checkbox3"
+            "name": "checkbox_sports"
         },
         {
             "type": "Checkbox",
@@ -269,7 +269,7 @@
             "children": [],
             "id": "fa78e87b-c9cd-4417-8ab5-5bdee80d13ef",
             "thunkableVersion": 447,
-            "name": "Checkbox2"
+            "name": "checkbox_events"
         },
         {
             "type": "Checkbox",
@@ -281,14 +281,14 @@
                 "Height": 28,
                 "Width": 28,
                 "RelativeX": 240,
-                "RelativeY": 166,
+                "RelativeY": 165.9895782470703,
                 "Color": "rgba(93, 122, 252, 100)",
                 "UncheckedColor": "rgba(208, 215, 231, 100)",
                 "ParentId": "02f6b601-ad2f-4e36-9687-263bd090368e",
                 "X": 240,
-                "Y": 166,
+                "Y": 165.9895782470703,
                 "position": "absolute",
-                "edgeOffsets": 166,
+                "edgeOffsets": 165.9895782470703,
                 "style": {
                     "position": "absolute",
                     "left": "63.06666666666667%",
@@ -299,7 +299,7 @@
             "children": [],
             "id": "bc274593-a8b6-4b18-83e7-300355c59cef",
             "thunkableVersion": 447,
-            "name": "Checkbox1"
+            "name": "checkbox_orgs"
         },
         {
             "type": "Label",
