@@ -1,4 +1,5 @@
 {
+    "id": "7c8be5b1-a38e-419d-82b7-c324198cae65",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -171,7 +172,7 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "Followed Events",
+                "Text": "Following",
                 "FontSize": 31,
                 "Font": "Montserrat",
                 "CustomFont": "",
@@ -183,9 +184,9 @@
                 "Width": 313,
                 "Visible": true,
                 "X": 33,
-                "Y": 68,
+                "Y": 72,
                 "RelativeX": 33,
-                "RelativeY": 68,
+                "RelativeY": 72,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(255, 255, 255, 1)",
@@ -228,8 +229,8 @@
                 },
                 "ParentId": "fd010418-bf8b-4466-8858-8bd0332e088d",
                 "position": "absolute",
-                "edgeOffsets": 68,
-                "children": "Followed Events"
+                "edgeOffsets": 72.99999999999999,
+                "children": "Following"
             },
             "children": [],
             "id": "1439521c-3578-4748-903a-bfab44a0db56",
@@ -727,7 +728,6 @@
             "name": "White Background2"
         }
     ],
-    "id": "7c8be5b1-a38e-419d-82b7-c324198cae65",
     "thunkableVersion": 450,
-    "name": "Followed Events Screen"
+    "name": "Following Screen"
 }
