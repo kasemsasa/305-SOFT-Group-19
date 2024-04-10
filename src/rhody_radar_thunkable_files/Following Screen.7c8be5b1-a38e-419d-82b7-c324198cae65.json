@@ -172,7 +172,7 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "Following",
+                "Text": "Saved Events",
                 "FontSize": 31,
                 "Font": "Montserrat",
                 "CustomFont": "",
@@ -230,13 +230,13 @@
                 "ParentId": "fd010418-bf8b-4466-8858-8bd0332e088d",
                 "position": "absolute",
                 "edgeOffsets": 72.99999999999999,
-                "children": "Following"
+                "children": "Saved Events"
             },
             "children": [],
             "id": "1439521c-3578-4748-903a-bfab44a0db56",
             "thunkableVersion": 450,
             "bindings": null,
-            "name": "Followed Events Label"
+            "name": "Saved Events Label"
         },
         {
             "type": "Image",
@@ -444,15 +444,7 @@
                                     "children": [],
                                     "id": "b1b0bc2b-33d4-4688-985b-2c2a07e27bd3",
                                     "thunkableVersion": 447,
-                                    "bindings": {
-                                        "Picture": {
-                                            "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
-                                            "componentId": "8c388963-ebde-425e-ba37-a6a3cf52ac02",
-                                            "property": "DataSourceTableBinding",
-                                            "column": "73efc744-7b2c-4ec1-a87f-0520cbc845b0",
-                                            "row": 0
-                                        }
-                                    },
+                                    "bindings": {},
                                     "name": "Image4",
                                     "bindingLabel": "Image"
                                 }
@@ -558,15 +550,7 @@
                                     "children": [],
                                     "id": "bb3c2e1d-c85e-40c2-8ac9-60d8292fa565",
                                     "thunkableVersion": 447,
-                                    "bindings": {
-                                        "Text": {
-                                            "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
-                                            "componentId": "8c388963-ebde-425e-ba37-a6a3cf52ac02",
-                                            "property": "DataSourceTableBinding",
-                                            "column": "72ce052b-74e0-404b-9c30-1f268f2bf8e8",
-                                            "row": 0
-                                        }
-                                    },
+                                    "bindings": {},
                                     "name": "Title1",
                                     "bindingLabel": "Title"
                                 },
@@ -628,15 +612,7 @@
                                     "children": [],
                                     "id": "bede8386-2779-4fa3-870a-0dfb3b4acfcf",
                                     "thunkableVersion": 447,
-                                    "bindings": {
-                                        "Text": {
-                                            "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
-                                            "componentId": "8c388963-ebde-425e-ba37-a6a3cf52ac02",
-                                            "property": "DataSourceTableBinding",
-                                            "column": "b433d74d-f4fa-40b8-a047-0ebf9c12091d",
-                                            "row": 0
-                                        }
-                                    },
+                                    "bindings": {},
                                     "name": "Subtitle1",
                                     "bindingLabel": "Subtitle"
                                 }
@@ -655,7 +631,14 @@
             ],
             "id": "6636b579-3af7-4c05-964f-14d05ed9666a",
             "thunkableVersion": 450,
-            "bindings": null,
+            "bindings": {
+                "DataSourceTableBinding": {
+                    "dataSourceLinkId": "6601b23c637240902b1f9260",
+                    "collectionId": "6601b20038ef7101684b2fff",
+                    "isLocal": false,
+                    "type": "DATA_SOURCE_TABLE"
+                }
+            },
             "name": "Data_Viewer_Grid2"
         },
         {
