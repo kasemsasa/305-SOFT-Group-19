@@ -1,4 +1,5 @@
 {
+    "id": "75860ed2-c3ed-4eac-8df0-c99775b5897f",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -1341,7 +1342,6 @@
             "name": "White Background3"
         }
     ],
-    "id": "75860ed2-c3ed-4eac-8df0-c99775b5897f",
     "thunkableVersion": 451,
     "bindings": null,
     "name": "Club Feed Screen"
