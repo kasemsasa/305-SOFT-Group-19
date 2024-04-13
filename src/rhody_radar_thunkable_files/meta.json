@@ -93,8 +93,8 @@
                     "createdAt": "2024-02-13T19:48:53.857Z",
                     "updatedAt": "2024-02-13T19:48:53.857Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea26d156563d899adda78/projects/65eb86d8fde2b744b9560748/assets/65eb86d8fde2b744b956074b?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240411%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240411T125412Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=7e3de3a45d7375c4f544e33cf797476ad4cd36791cb647104bcd5fa6f2fa3ccf62cc98ef3284f002c700d17bffd0e598aaf7d7b8db538322c545c8f99cebee9b6133338ba825e68949371a07eb2c79472f67ded518cdd7e893004dd4bb938b609c54ae217cbf268ed4a7929fb8b71280885ec3cd0f1b0cc9f393bb5c0585eb7d194f73dabb5adb9fe8442bcc23b5df540a8cc4c175db15ed8b85267b317033af8e7d13035339827e5e6eb27a57088e7f7bc9770d54410a136bd5f06fa1e95bf117c054c890dde255c5e5dcbc5a29a4d6fae8ff9119d9fdc1b6c5ebff3f4c0442930d837a90208b532c929915dafac9ccb68b45d332c61ae92cbabb8443076b54",
-                    "signedUrlExpirationTime": 1713012852391
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea26d156563d899adda78/projects/65eb86d8fde2b744b9560748/assets/65eb86d8fde2b744b956074b?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240412%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240412T164655Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=ad28ea6c1181c2b8ac2f76e1963e8078c6aa42fdbaaf32ca25800f75b29c442238b4efb8b83d2e0c7dfe2a1d6fa3445701ce2ba186eeeaca55e11047364b8aaee413f2a6d5ca72f08a7a9fc1731c45e914180c01fae3a28562766511e0a687bf3858b3587babdb7d11e8280290e347f243d3026952677dd137366f24aa0d5e8dc6ba62ce4dc2e8f75ec5711c72d0cb77318af08fb7625a7f7ad1a592c0de3cde1eb7e5381567a50453edd697205d99b96730f8643e9065fd2763ccebf6f8df41fb090799b01adaa6c2a9c308ee29d14e9d371a2c2cce2c6d81582be7159681ff44876a88d866db33d3373ab17bec89892e6720d98ad6936ded45b4e66c60f148",
+                    "signedUrlExpirationTime": 1713113215965
                 },
                 "65eb86d8fde2b744b956074d": {
                     "name": "Rhode-Island-Rams-logo.png",
@@ -109,8 +109,8 @@
                     "createdAt": "2024-03-07T14:56:45.826Z",
                     "updatedAt": "2024-03-07T14:56:45.826Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea26d156563d899adda78/projects/65eb86d8fde2b744b9560748/assets/65eb86d8fde2b744b956074d?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240411%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240411T125412Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a93589b4c979af2001dfb680172e24ed721f6c2bf9d95997b6303333c3fad3ddcc6c1cf11e93ca54c535bacb8c0389031d8ac404003d94ded5815c016d6a1e710d454e117fb0f2e8af9baa7bd0a79044dd1e88ba522a5bd6f643cd60263450ea02aff4d9946bfe1533137621fceb586f3b87a367ce89b87df089e603568ef79cef1af0f85a4043847b721a887028ba038f564368d60a94b16daec198ee5db2749f9bc09978ff3a4a7e5fff6886504adb990703916e11b6323526e1702a7b012f26fd76386d5b115ad63114ae806c65df0313577c1c8e396bf5f1efab062c28e60fdbe1b2c35fe802f8c9434665213de01f14246082fd4d93a86df6554636c0fb",
-                    "signedUrlExpirationTime": 1713012852395
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea26d156563d899adda78/projects/65eb86d8fde2b744b9560748/assets/65eb86d8fde2b744b956074d?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240412%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240412T164655Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=b8fed58328dfd5843f2cc907f417375da1b6b2b2bdfde466b18d84aaa706d5344657398733c861e6fae8b370058b0015cc9fd9694d74c96fa818203eb7f9de90805702f6d9a1ebf397b6ee968fd041aae2dfbed2ada930d364c8af00e41e5cafc920749ff707c14908c298c6ba4eb90710e218eb737833990d47a33e26b343b963f6f4eaa4c3975d67a61d1c3f1b67251d184f6124b2ddfcb58427edc86fe8655345153e755d8655257dcaee557c6ebfbe55401264765a3c3bcab263690d21c57411cf5cf93faa6fa2c374d5e6c6b8a3c8829dd2d2b78c2a9f24e36d24225adf41e2cf8b1caf9c0dfb8f82df854969ed1a4eb1107ba330159e8e8db82b3faa0c",
+                    "signedUrlExpirationTime": 1713113215968
                 },
                 "65eb8714249ddf26e58193f0": {
                     "externalStorageType": "GCS",
@@ -125,8 +125,8 @@
                     "createdAt": "2024-03-08T21:45:57.008Z",
                     "updatedAt": "2024-03-08T21:45:57.008Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea26d156563d899adda78/projects/65eb86d8fde2b744b9560748/assets/65eb8714249ddf26e58193f0?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240411%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240411T125412Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=09358da46712cdb1116d1768a5b84c84dcbacaad9c9f7dcfed51b7b5c44051e90ac2169cdf417fb53f5a075c55502b366141d2a09b5d8c39c4ea56621a227175166980388e77463a121dbc23ebe4c4370c998df760e3ace72710abe6ce705ad1af4e2316be3f9d973491b2e6bec4bc426c7e0a775819889468b610004a0e26be92dd365f1af0b8fa251ae502ef068a150130c4e295bf11a9a57e588671d1549bb0de5d68a0580025a01cedd5868e013383b361fae9b6b618fe1896538635844f74e04586b7fa95ddf7ff8e3d58d0e5fa6013e5bda4c5ef9dbd7256be4ee9fd381630a1640f59e9aa6ea06e7debea7e9cdc205a7f966bb24cf85bdb6aa0c46cc0",
-                    "signedUrlExpirationTime": 1713012852397
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea26d156563d899adda78/projects/65eb86d8fde2b744b9560748/assets/65eb8714249ddf26e58193f0?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240412%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240412T164655Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=62a35ce75396460d542b77377d61b254562335ffdba88fe8297dcb2d3688bf9ea51bce722137ad9e57931e7003c49d36eb1285cd2704a02dae6ed603dfa3530c6c0328c82f125d7c69a024e4f25bf5e8b8b490ad674de9ed6b2fecd03515ddec60c5bd08b9ffd8fc0a11152337205c24c7d5f0e9c3e1ce94233c2508b9076dec176b38cb9b99ca87215c474d51519d248eb541bb147092654085055777280c181f671495c21f1c6a089021d6b459245f176787319999e069a537f7e25688df6718eeb9f9a172567e7e2383c8c4b7fd9b057f4287bbf794dc2e0f239bb675ea10ea27003637eef2ef6abf407a5b5ce5859fe07a07651e67db0814bfd06d0540d7",
+                    "signedUrlExpirationTime": 1713113215971
                 },
                 "65eb8a094eda2f563b96c71f": {
                     "externalStorageType": "GCS",
@@ -141,8 +141,8 @@
                     "createdAt": "2024-03-08T21:58:33.339Z",
                     "updatedAt": "2024-03-08T21:58:33.339Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea26d156563d899adda78/projects/65eb86d8fde2b744b9560748/assets/65eb8a094eda2f563b96c71f?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240411%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240411T125412Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5798d3f8f38be15643897f97f7e9d36802094d5d1aad47ebed1ae1a92120c278742f296cca821e15e1bfdef1d198334d8923a3f44d467de08832b3cafe65827dcfa52c933002bcba16b2451605a4723ff3b082f0a1a2bb594fd3fb3dc9624ee5fc72727c9789c4ab4e1c50a660525119af042ac6fc0d7a89905bfba6b0bb7cb816298658372622da1d488f3eaa4412fd7d1584f0a14ee50570b7054c8a3027e76cace4d215d07761748544eaf68e21a455a824e3027b33812b167db3bb149507bf41e97e41cdfa99434f600128281acec9dbb7c097a533345ac94238db3e6cd284713dc7fbca332f89b1fe2e1a3c3ecbb8aacc4a2cff0baa2d6929c3655bb59c",
-                    "signedUrlExpirationTime": 1713012852400
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea26d156563d899adda78/projects/65eb86d8fde2b744b9560748/assets/65eb8a094eda2f563b96c71f?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240412%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240412T164655Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=34357fe53549dd90c0f1eab0e5fe59b1dee099d0fd02b9db010371f49b1467f533263c2c4bcee0ed9dd6480ebd47468823c35a8a933cc57d06d1464a666e0b510fb3694361b24d720b9589f6c329a2d070da1eba328ce9f64c7d0ffafc1afb5174eac9aa28113345cabfa651f8922ba0a15e3fc696b1e99cb9653228a7a4b6685bbfe58bd75e0e973cc02490ae7b0776f4b3f34b795c7c99f4536ee4bf574cd806e5993eb213baf4a48bbdbdb78342f5ffd66189e73048b11e79b93e8f5e41f633082d987b5469f463c752e27592992713ddb19a6f280eca32951a8a4ab7ddcc3588ec3d704eb802e5a4b9af827da95a0d4913aa0ec7c8acc21d436a1519436a",
+                    "signedUrlExpirationTime": 1713113215974
                 },
                 "65eb8a19fde2b744b9573fd8": {
                     "externalStorageType": "GCS",
@@ -157,8 +157,8 @@
                     "createdAt": "2024-03-08T21:58:49.292Z",
                     "updatedAt": "2024-03-08T21:58:49.292Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea26d156563d899adda78/projects/65eb86d8fde2b744b9560748/assets/65eb8a19fde2b744b9573fd8?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240411%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240411T125412Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=49a1274481d994a117adccfd909ca92d04708db35840f5cf0928f48e2b56168e359875f5e18bdfa530b985ca6f1a619dd3b21c6034d98895d9a6aa1a361e097732187eac8ae47ff37da9d4857111ef33f20ff92e63bf36010d4dbce4fbf56b21ba9d6a494708b331c1672cf6808f779970028526a532c91099c8aafcb9be7802ed3adb9971a4df847a6cf4ed1a365029c2cac637fe57fc02ecdb17d4f40193254ec6961afc9fdce2a0898e3320c91f62dc8bd9fc4e0d8fa076318731674582ec4cdc32f538cf2438b5f5f9806beb3f7b372569c7d810509f38d213cc13457a9188070adeb9922401ca983aa8296714d171a82808551c67500c2d31bf98a6aea7",
-                    "signedUrlExpirationTime": 1713012852402
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea26d156563d899adda78/projects/65eb86d8fde2b744b9560748/assets/65eb8a19fde2b744b9573fd8?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240412%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240412T164655Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=55b05bf0223ea26bbc83a2e8eaa055f500fb43db2e52e247892a9c3f9da013958cd072f48a562a00bb9f86fb59f5f9d2f721994081d8d32dbeb6a7d23ac97755fdfb59628bf6d50dae9389da3345760f32090b8e7de4f746e83a624585222ff2ba06255bd13ad8962646ed187434f29ebc949ef482d4bc4bf8fdea56d23bce04e6fbb5e0f38b0e6738018183f3eeab026c399fed98c3094c1de92fc4019bcf10b2f8acb4263fe4b7c41e9cc7aacca5ac6ab5c0d9fd2866951905bfff624c98231a1ba49d474ab9528918148c6bee8e2cb40aee05e52cb0422fec73e02fec09f48a3fae8483aeea507e0bcb058d1ae8adbf6e14246f30e06b4102a58306f0a495",
+                    "signedUrlExpirationTime": 1713113215976
                 },
                 "6615733d4532c84495a2a776": {
                     "externalStorageType": "GCS",
@@ -173,8 +173,8 @@
                     "createdAt": "2024-04-09T16:56:29.821Z",
                     "updatedAt": "2024-04-09T16:56:29.821Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea30ab85de05286c4d130/projects/660180f2637240902bf0e250/assets/6615733d4532c84495a2a776?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240410%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240410T210938Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=8b8803069ea7e7a7540b3bbb74c8d1ad5e347d298c2bed8334f17ae28921329d2b1bd133cef40280c0bd239957eabceb0fc064f5a0a3543687cd7930fd93d870138c283c18968291ecd3424f2a8be3c8a455b047b7dcd34e124f0e092c6552ffedde6fd7e1dd6c08a5a103b1c82a59d7592d471d9883f57f15a62137447b1ad0f0c2e0855b924f25d5b6b0b9026d888ead563ff031ccb08505bc739b3234722fa9c2321fead0da628524fd1ed703896054836b3707fb2401e561266958563e46ad48ac864f10a0e888f48e47ae8a574115268c42662c667479903686a0ac18d18142b1bddcad9a324b6939301fa1789bcfdd8559a41b7f36995efe52673ac733",
-                    "signedUrlExpirationTime": 1712956178742
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea30ab85de05286c4d130/projects/660180f2637240902bf0e250/assets/6615733d4532c84495a2a776?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240412%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240412T164655Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=aa0379ca0ed3b1db97952bc8bd6190bbaddafc6297a4aa4dafd06d3e13d6699b113f2a03ebedd49977e7045846a5f2b98b632c92b41fe94516e025d41aefbe93570c3c270efc97dfeffb68e122b00b2fe043f799290b41a7ebece88f81f18460261293f7a7648f3a14b5d6ff9f4d310e79e830fc4293b809fcd57fca5c8db59ce422f88417f5afaae554aea7a816564a3a1b979a4a60c19e74b8f3f6ab6e64c6a19c399ee00bc3f162958b8f94a6c331204f56e930a55062f48c46f4799155f812d5c3e2fa744382c98b1b08602b83bcf35bb89ecea38b1f79c85918639b978a7791c4248dcbad59387564151cee535b0205108cef06d0c489179913447bb068",
+                    "signedUrlExpirationTime": 1713113215979
                 }
             },
             "backendUpgradeVersion": 25,
@@ -411,7 +411,7 @@
                 "__typename": "ProjectSettings"
             },
             "hasAdmob": true,
-            "hasBluetoothLowEnergy": null,
+            "hasBluetoothLowEnergy": true,
             "hasPushNotification": false,
             "hasAssistant": null,
             "dataSourceLinks": [],
@@ -487,53 +487,93 @@
                                         "label": "benefits",
                                         "name": "benefits",
                                         "type": "STRING"
+                                    }
+                                ],
+                                "data": {
+                                    "edges": []
+                                }
+                            },
+                            {
+                                "id": "da9e5c58-50d2-4d0f-a418-67d5227e41a5",
+                                "name": "Table 2",
+                                "label": "Table 2",
+                                "fields": [
+                                    {
+                                        "id": "481f32be-7dbd-4c43-bb61-3bc1cefc3e33",
+                                        "name": "column1",
+                                        "label": "image_url",
+                                        "type": "STRING"
                                     },
                                     {
-                                        "id": "9b90d1a9-3168-48b9-a34d-001774e4dba5",
+                                        "id": "f37bf6f7-4ec3-447e-89e5-a1b50264314d",
+                                        "name": "column2",
+                                        "label": "name",
+                                        "type": "NUMBER"
+                                    },
+                                    {
+                                        "id": "cae1bc6b-1b5b-41b3-8c64-1830aef6af76",
+                                        "label": "description",
+                                        "name": "description",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "d3bb702d-2234-4c2f-a0f5-54fe57eea3d6",
+                                        "label": "id",
+                                        "name": "id",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "a6008782-9db5-42d9-8b94-8d54cf34c9e2",
+                                        "label": "tags",
+                                        "name": "tags",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "a0ce642a-d554-4e00-9f05-b0d555f2846c",
                                         "label": "city",
                                         "name": "city",
                                         "type": "STRING"
                                     },
                                     {
-                                        "id": "0b22317f-ccc9-4c31-b5d7-fd88e62f6ef2",
+                                        "id": "ca93e423-10f5-4f8b-8588-8fa4e3035921",
                                         "label": "email",
                                         "name": "email",
                                         "type": "STRING"
                                     },
                                     {
-                                        "id": "09e9ed5b-791a-4a48-aaa1-3dc9c0ec78ee",
+                                        "id": "9d1c62ae-55c8-410e-ae2c-a87d30fc55e0",
                                         "label": "external_website",
                                         "name": "external_website",
                                         "type": "STRING"
                                     },
                                     {
-                                        "id": "aca77815-c7a1-4897-acd0-fcc0655795b1",
+                                        "id": "01592d26-9672-4e6e-b6c3-b9116efb5bb9",
                                         "label": "instagram_url",
                                         "name": "instagram_url",
                                         "type": "STRING"
                                     },
                                     {
-                                        "id": "91f694d6-9163-445c-9921-0b5915064a29",
-                                        "label": "state",
-                                        "name": "state",
-                                        "type": "STRING"
-                                    },
-                                    {
-                                        "id": "3ac3b053-1778-4a3e-b2cf-63f1dbd241b4",
+                                        "id": "27ed0ebc-cebd-41e4-a53e-30798c66aaef",
                                         "label": "street1",
                                         "name": "street1",
                                         "type": "STRING"
                                     },
                                     {
-                                        "id": "4ae5e661-2bdd-4b5e-ac15-944cd18b9b0b",
+                                        "id": "998456f3-5406-4e7d-a573-d31009fb5001",
                                         "label": "street2",
                                         "name": "street2",
                                         "type": "STRING"
                                     },
                                     {
-                                        "id": "03f940eb-6aaa-445d-b716-be215795cbe2",
+                                        "id": "cc145d90-575e-4721-917c-43355e7af5b1",
                                         "label": "zip_code",
                                         "name": "zip_code",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "ae4104bf-973f-45e1-8ba2-227a3760e9fe",
+                                        "label": "state",
+                                        "name": "state",
                                         "type": "STRING"
                                     }
                                 ],
@@ -546,6 +586,180 @@
                             "id": "0579d9d2-ce08-4429-ae5e-3bbd716c52cd",
                             "name": "Events/Clubs",
                             "owner": "65aea2f0bdfbccb613c6c8c8",
+                            "type": "IN_MEMORY"
+                        }
+                    }
+                },
+                {
+                    "id": "cc000112-f3ec-4df5-9850-39d11999bec6",
+                    "dataSource": {
+                        "id": "1c491f0c-213f-4081-b81d-20e836ed8900",
+                        "name": "Followed Events/Clubs",
+                        "owner": "65aea30ab85de05286c4d130",
+                        "collections": [
+                            {
+                                "id": "91b4adaf-5045-47c5-b151-fcd0422e8104",
+                                "name": "Table 1",
+                                "label": "Table 1",
+                                "fields": [
+                                    {
+                                        "id": "e746b32c-7a74-420e-a9e1-9410941798fe",
+                                        "name": "column1",
+                                        "label": "image_url",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "c1b6a558-88cd-47f0-a217-80527a45c245",
+                                        "name": "column2",
+                                        "label": "name",
+                                        "type": "NUMBER"
+                                    },
+                                    {
+                                        "id": "0ea5fc19-a3fb-42fb-ba32-525db16f8bb6",
+                                        "label": "description",
+                                        "name": "description",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "674d2f1e-b96f-48e6-b835-56e70f4b92f4",
+                                        "label": "id",
+                                        "name": "id",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "a9298b5d-44f7-4912-b141-e2ae92a5b0b0",
+                                        "label": "start_time",
+                                        "name": "start_time",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "62dd81e2-b5df-433d-b3f0-6b8f587d5b84",
+                                        "label": "ends_on",
+                                        "name": "ends_on",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "cde7f201-a519-4f5a-b590-16ba1e71f9d9",
+                                        "label": "address_name",
+                                        "name": "address_name",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "8b3562e9-dbce-41c3-b131-3567f78b66e0",
+                                        "label": "address",
+                                        "name": "address",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "adb04ba3-85a6-4f14-be98-f07e3832afca",
+                                        "label": "tags",
+                                        "name": "tags",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "f9d7bf9e-34ca-4e49-8430-8659cc360f72",
+                                        "label": "benefits",
+                                        "name": "benefits",
+                                        "type": "STRING"
+                                    }
+                                ],
+                                "data": {
+                                    "edges": []
+                                }
+                            },
+                            {
+                                "id": "0005268d-ad08-414d-bb35-897a4368e1bc",
+                                "name": "Table 2",
+                                "label": "Table 2",
+                                "fields": [
+                                    {
+                                        "id": "0ff4a8d9-6e8e-497f-a0c1-f660a768297e",
+                                        "name": "column1",
+                                        "label": "image_url",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "aabb1e19-2cee-423f-bd09-810a1d2ab9fb",
+                                        "name": "column2",
+                                        "label": "name",
+                                        "type": "NUMBER"
+                                    },
+                                    {
+                                        "id": "2778eb7c-6cae-44a2-a598-822ada202035",
+                                        "label": "description",
+                                        "name": "description",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "f9bd166a-4d29-408e-b76e-69ff6692e341",
+                                        "label": "id",
+                                        "name": "id",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "67200610-baf6-418f-a556-4b14e530e9b7",
+                                        "label": "tags",
+                                        "name": "tags",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "0e66514f-af2e-428c-9573-84d15e9a9f83",
+                                        "label": "city",
+                                        "name": "city",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "8ed051a2-acb0-46b0-b466-a09a1af2dadd",
+                                        "label": "email",
+                                        "name": "email",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "3f25d510-ed73-4836-ac03-95c2c7ba800e",
+                                        "label": "external_website",
+                                        "name": "external_website",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "e17fc6e3-a690-45e8-84c6-a627a2787a9b",
+                                        "label": "instagram_url",
+                                        "name": "instagram_url",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "5c3dd175-8df2-4725-bf21-a464bf86dfa2",
+                                        "label": "street1",
+                                        "name": "street1",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "a2432d39-b78b-4fb0-91a7-df1ce7538c8e",
+                                        "label": "street2",
+                                        "name": "street2",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "79a9dc96-80a5-408e-9a6f-2b7928ff4a07",
+                                        "label": "zip_code",
+                                        "name": "zip_code",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "cffd44cc-a12b-4812-8189-b91fa9a3eed0",
+                                        "label": "state",
+                                        "name": "state",
+                                        "type": "STRING"
+                                    }
+                                ],
+                                "data": {
+                                    "edges": []
+                                }
+                            }
+                        ],
+                        "configuration": {
+                            "id": "9c4304d0-8882-4ba8-a3b4-5829e12f36f5",
+                            "name": "Followed Events/Clubs",
+                            "owner": "65aea30ab85de05286c4d130",
                             "type": "IN_MEMORY"
                         }
                     }
@@ -602,6 +816,11 @@
                     "scope": "APP",
                     "name": "can_refresh",
                     "screenId": "fd010418-bf8b-4466-8858-8bd0332e088d"
+                },
+                "d44a52c9-95e6-4fec-93c0-66cbb5bfb81c": {
+                    "scope": "APP",
+                    "name": "pass****",
+                    "screenId": "a11907ac-654a-49b8-ad9c-f28522cfe0ac"
                 }
             },
             "defaultDesignerDevice": "PHONE",

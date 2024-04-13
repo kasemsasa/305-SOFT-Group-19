@@ -1,4 +1,5 @@
 {
+    "id": "93b7e165-eddd-4a85-99bf-d3c5d94f2076",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -122,13 +123,13 @@
                 "LineHeight": 1,
                 "Color": "rgba(255, 255, 255, 1)",
                 "FontWeight": "bold",
-                "Height": 47,
-                "Width": 189,
+                "Height": 48,
+                "Width": 181,
                 "Visible": true,
-                "X": 93,
-                "Y": 144,
-                "RelativeX": 93,
-                "RelativeY": 144,
+                "X": 97,
+                "Y": 168,
+                "RelativeX": 97,
+                "RelativeY": 168,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(255, 255, 255, 1)",
@@ -170,7 +171,7 @@
                 },
                 "ParentId": "93b7e165-eddd-4a85-99bf-d3c5d94f2076",
                 "position": "absolute",
-                "edgeOffsets": 144,
+                "edgeOffsets": 168.99478149414062,
                 "children": "Welcome to"
             },
             "children": [],
@@ -225,7 +226,6 @@
             "name": "Image8"
         }
     ],
-    "id": "93b7e165-eddd-4a85-99bf-d3c5d94f2076",
     "thunkableVersion": 452,
     "name": "Welcome Screen"
 }

@@ -201,13 +201,13 @@
                         "Font": "",
                         "CustomFont": "",
                         "BackgroundColor": "rgba(15, 204, 254, 1)",
-                        "Height": 40,
-                        "Width": 120,
+                        "Height": 50,
+                        "Width": 105,
                         "Visible": true,
-                        "X": 36.99739456176758,
-                        "Y": 575.9895782470703,
-                        "RelativeX": 18,
-                        "RelativeY": 450,
+                        "X": 56.99739456176758,
+                        "Y": 576.9895782470703,
+                        "RelativeX": 38,
+                        "RelativeY": 451,
                         "ResizeMode": "STRETCH",
                         "style": {
                             "marginTop": 0,
@@ -218,7 +218,7 @@
                             "paddingBottom": 0,
                             "paddingLeft": 0,
                             "paddingRight": 0,
-                            "borderRadius": 15,
+                            "borderRadius": 5,
                             "shadowColor": "rgba(0, 0, 0, 0)",
                             "shadowOpacity": 0,
                             "scaledShadowOpacity": 0,
@@ -238,7 +238,7 @@
                         "Disabled": false,
                         "ParentId": "75860ed2-c3ed-4eac-8df0-c99775b5897f",
                         "position": "absolute",
-                        "edgeOffsets": 575.9895782470703
+                        "edgeOffsets": 576.9895782470703
                     },
                     "children": [],
                     "id": "f9b80a3a-0aaa-42ba-a1d2-d66defa37700",
@@ -440,13 +440,13 @@
                     "properties": {
                         "Hint": "",
                         "CustomFont": "",
-                        "Height": 121,
-                        "Width": 313,
+                        "Height": 194,
+                        "Width": 318,
                         "Visible": true,
-                        "X": 33.16666603088379,
-                        "Y": 371.15624237060547,
-                        "RelativeX": 14.169271469116211,
-                        "RelativeY": 245.16666412353516,
+                        "X": 33.16666793823242,
+                        "Y": 371.15277099609375,
+                        "RelativeX": 14.169273376464844,
+                        "RelativeY": 245.16319274902344,
                         "ResizeMode": "STRETCH",
                         "style": {
                             "color": "rgba(0, 0, 0, 1)",
@@ -492,7 +492,7 @@
                         "underlineColorAndroid": "rgba(0, 0, 0, 0)",
                         "ParentId": "fd010418-bf8b-4466-8858-8bd0332e088d",
                         "position": "absolute",
-                        "edgeOffsets": 371.15624237060547,
+                        "edgeOffsets": 371.15277099609375,
                         "placeholder": ""
                     },
                     "children": [],
@@ -510,13 +510,13 @@
                         "Font": "",
                         "CustomFont": "",
                         "BackgroundColor": "rgba(103, 202, 255, 1)",
-                        "Height": 39,
-                        "Width": 125,
+                        "Height": 50,
+                        "Width": 105,
                         "Visible": true,
-                        "X": 225.99739456176758,
-                        "Y": 575.9895782470703,
-                        "RelativeX": 207,
-                        "RelativeY": 450,
+                        "X": 222.99739456176758,
+                        "Y": 576.9895782470703,
+                        "RelativeX": 204,
+                        "RelativeY": 451,
                         "ResizeMode": "STRETCH",
                         "style": {
                             "marginTop": 0,
@@ -527,7 +527,7 @@
                             "paddingBottom": 0,
                             "paddingLeft": 0,
                             "paddingRight": 0,
-                            "borderRadius": 15,
+                            "borderRadius": 5,
                             "shadowColor": "rgba(0, 0, 0, 0)",
                             "shadowOpacity": 0,
                             "scaledShadowOpacity": 0,
@@ -547,7 +547,7 @@
                         "Disabled": false,
                         "ParentId": "fd010418-bf8b-4466-8858-8bd0332e088d",
                         "position": "absolute",
-                        "edgeOffsets": 575.9895782470703
+                        "edgeOffsets": 576.9895782470703
                     },
                     "children": [],
                     "id": "8826397b-869e-40b4-be62-4228c17320b7",
@@ -664,13 +664,13 @@
                 "Font": "",
                 "CustomFont": "",
                 "BackgroundColor": "rgba(93, 122, 252, 100)",
-                "Height": 42,
-                "Width": 86,
+                "Height": 50,
+                "Width": 105,
                 "Visible": true,
-                "X": 147,
-                "Y": 565,
-                "RelativeX": 147,
-                "RelativeY": 565,
+                "X": 134,
+                "Y": 595,
+                "RelativeX": 134,
+                "RelativeY": 595,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -681,7 +681,7 @@
                     "paddingBottom": 0,
                     "paddingLeft": 0,
                     "paddingRight": 0,
-                    "borderRadius": 15,
+                    "borderRadius": 5,
                     "shadowColor": "rgba(0, 0, 0, 0)",
                     "shadowOpacity": 0,
                     "scaledShadowOpacity": 0,
@@ -701,7 +701,7 @@
                 "Disabled": false,
                 "ParentId": "fd010418-bf8b-4466-8858-8bd0332e088d",
                 "position": "absolute",
-                "edgeOffsets": 565
+                "edgeOffsets": 593.9999999999999
             },
             "children": [],
             "id": "bbf36e67-8cc5-40e1-9cd8-b2364f777046",
@@ -718,13 +718,13 @@
                 "Font": "",
                 "CustomFont": "",
                 "BackgroundColor": "rgba(0, 33, 71, 1)",
-                "Height": 42,
-                "Width": 97,
+                "Height": 50,
+                "Width": 105,
                 "Visible": true,
-                "X": 33,
-                "Y": 564,
-                "RelativeX": 33,
-                "RelativeY": 564,
+                "X": 24,
+                "Y": 595,
+                "RelativeX": 24,
+                "RelativeY": 595,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -735,7 +735,7 @@
                     "paddingBottom": 0,
                     "paddingLeft": 0,
                     "paddingRight": 0,
-                    "borderRadius": 15,
+                    "borderRadius": 5,
                     "shadowColor": "rgba(0, 0, 0, 0)",
                     "shadowOpacity": 0,
                     "scaledShadowOpacity": 0,
@@ -755,7 +755,7 @@
                 "Disabled": false,
                 "ParentId": "fd010418-bf8b-4466-8858-8bd0332e088d",
                 "position": "absolute",
-                "edgeOffsets": 564
+                "edgeOffsets": 594
             },
             "children": [],
             "id": "223b4838-ffda-4a92-b7af-e741f6fce379",
@@ -773,13 +773,13 @@
                 "Font": "",
                 "CustomFont": "",
                 "BackgroundColor": "rgba(0, 33, 71, 1)",
-                "Height": 47,
-                "Width": 102,
+                "Height": 50,
+                "Width": 105,
                 "Visible": true,
-                "X": 251,
-                "Y": 562,
-                "RelativeX": 251,
-                "RelativeY": 562,
+                "X": 246,
+                "Y": 595,
+                "RelativeX": 246,
+                "RelativeY": 595,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -790,7 +790,7 @@
                     "paddingBottom": 0,
                     "paddingLeft": 0,
                     "paddingRight": 0,
-                    "borderRadius": 15,
+                    "borderRadius": 5,
                     "shadowColor": "rgba(0, 0, 0, 0)",
                     "shadowOpacity": 0,
                     "scaledShadowOpacity": 0,
@@ -810,7 +810,7 @@
                 "Disabled": false,
                 "ParentId": "fd010418-bf8b-4466-8858-8bd0332e088d",
                 "position": "absolute",
-                "edgeOffsets": 562.9999999999999
+                "edgeOffsets": 594
             },
             "children": [],
             "id": "af75bc86-ed9e-46b4-8039-ef6ab5a73298",
@@ -1058,7 +1058,7 @@
                                             "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
                                             "componentId": "c46a5180-855b-468c-b178-bfe6ceb770de",
                                             "property": "DataSourceTableBinding",
-                                            "column": "73efc744-7b2c-4ec1-a87f-0520cbc845b0",
+                                            "column": "481f32be-7dbd-4c43-bb61-3bc1cefc3e33",
                                             "row": 0
                                         }
                                     },
@@ -1068,7 +1068,8 @@
                             ],
                             "id": "78a57d25-9eeb-401b-92cd-3dfbb7f816f1",
                             "thunkableVersion": 451,
-                            "name": "ImageWrapper"
+                            "name": "ImageWrapper",
+                            "bindings": {}
                         },
                         {
                             "type": "Row",
@@ -1172,7 +1173,7 @@
                                             "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
                                             "componentId": "c46a5180-855b-468c-b178-bfe6ceb770de",
                                             "property": "DataSourceTableBinding",
-                                            "column": "72ce052b-74e0-404b-9c30-1f268f2bf8e8",
+                                            "column": "f37bf6f7-4ec3-447e-89e5-a1b50264314d",
                                             "row": 0
                                         }
                                     },
@@ -1243,7 +1244,7 @@
                                             "type": "COMPONENT_PROPERTY_TABLE_ELEMENT",
                                             "componentId": "c46a5180-855b-468c-b178-bfe6ceb770de",
                                             "property": "DataSourceTableBinding",
-                                            "column": "b433d74d-f4fa-40b8-a047-0ebf9c12091d",
+                                            "column": "cae1bc6b-1b5b-41b3-8c64-1830aef6af76",
                                             "row": 0
                                         }
                                     },
@@ -1253,12 +1254,14 @@
                             ],
                             "id": "59cec16d-d2cd-4029-9c0d-9c505150142a",
                             "thunkableVersion": 451,
-                            "name": "LabelWrapper"
+                            "name": "LabelWrapper",
+                            "bindings": {}
                         }
                     ],
                     "id": "fda5933c-aabf-4383-bd81-5dadb3e1faaf",
                     "thunkableVersion": 451,
-                    "name": "LayoutWrapper"
+                    "name": "LayoutWrapper",
+                    "bindings": {}
                 }
             ],
             "id": "c46a5180-855b-468c-b178-bfe6ceb770de",
@@ -1266,7 +1269,7 @@
             "bindings": {
                 "DataSourceTableBinding": {
                     "dataSourceLinkId": "f04cc580-939b-4c86-873a-f829186e0fc9",
-                    "collectionId": "a844d918-ecce-4886-9bc3-74856a03740c",
+                    "collectionId": "da9e5c58-50d2-4d0f-a418-67d5227e41a5",
                     "isLocal": true,
                     "type": "DATA_SOURCE_TABLE"
                 }
