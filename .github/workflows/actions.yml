@@ -2,7 +2,7 @@ name: Update Event Data in Firebase
 
 on:
   schedule:
-    - cron: '*/720 * * * *'  # Run every 5 minutes
+    - cron: '0 2 * * *'  # Run at 2 AM daily
 
 jobs:
   build:
