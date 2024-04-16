@@ -12,7 +12,7 @@ tokenizer = AutoTokenizer.from_pretrained("fabiochiu/t5-base-tag-generation")
 model = AutoModelForSeq2SeqLM.from_pretrained("fabiochiu/t5-base-tag-generation")
 
 # Initialize Firebase Admin SDK
-cred = credentials.Certificate(r"C:\Users\there\Downloads\scrape backend\soft-group-19-firebase-adminsdk-z8wjf-5162254013.json")
+cred = credentials.Certificate(r"\firebase\soft-group-19-firebase-adminsdk-z8wjf-5162254013.json")
 initialize_app(cred, {
     'databaseURL': 'https://soft-group-19-default-rtdb.firebaseio.com/'
 })
