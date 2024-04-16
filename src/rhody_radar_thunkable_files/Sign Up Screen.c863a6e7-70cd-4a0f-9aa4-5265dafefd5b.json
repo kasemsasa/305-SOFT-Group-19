@@ -45,7 +45,8 @@
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
         "isSimple": true,
-        "BackgroundColor": "rgba(0, 33, 71, 1)"
+        "BackgroundColor": "rgba(0, 33, 71, 1)",
+        "Scrollable": false
     },
     "children": [
         {

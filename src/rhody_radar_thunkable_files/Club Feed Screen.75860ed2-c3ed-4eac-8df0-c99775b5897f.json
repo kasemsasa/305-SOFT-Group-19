@@ -138,6 +138,51 @@
             },
             "children": [
                 {
+                    "type": "Image",
+                    "translatedName": "Image",
+                    "properties": {
+                        "resizeMode": "stretch",
+                        "Height": 50,
+                        "Width": 50,
+                        "Visible": false,
+                        "X": 162.99739456176758,
+                        "Y": 576.9895782470703,
+                        "RelativeX": 144,
+                        "RelativeY": 451,
+                        "ResizeMode": "STRETCH",
+                        "style": {
+                            "marginTop": 0,
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingLeft": 0,
+                            "paddingRight": 0,
+                            "shadowColor": "rgba(0, 0, 0, 0)",
+                            "shadowOpacity": 0,
+                            "scaledShadowOpacity": 0,
+                            "shadowRadius": 0,
+                            "shadowOffset": {
+                                "width": 0,
+                                "height": 0
+                            },
+                            "position": "absolute",
+                            "left": "25.199993896484376%",
+                            "top": "46.54964235411591%",
+                            "display": "none"
+                        },
+                        "capInsets": {},
+                        "ParentId": "75860ed2-c3ed-4eac-8df0-c99775b5897f",
+                        "position": "absolute",
+                        "edgeOffsets": 576.9895782470703
+                    },
+                    "children": [],
+                    "id": "e19a5ef7-2144-4377-8ebf-0b0970e3ee07",
+                    "thunkableVersion": 452,
+                    "name": "instagram_icon"
+                },
+                {
                     "type": "Button",
                     "translatedName": "Button",
                     "properties": {
@@ -204,9 +249,9 @@
                         "Height": 50,
                         "Width": 105,
                         "Visible": true,
-                        "X": 56.99739456176758,
+                        "X": 33.99739456176758,
                         "Y": 576.9895782470703,
-                        "RelativeX": 38,
+                        "RelativeX": 15,
                         "RelativeY": 451,
                         "ResizeMode": "STRETCH",
                         "style": {
@@ -513,9 +558,9 @@
                         "Height": 50,
                         "Width": 105,
                         "Visible": true,
-                        "X": 222.99739456176758,
+                        "X": 237.99739456176758,
                         "Y": 576.9895782470703,
-                        "RelativeX": 204,
+                        "RelativeX": 219,
                         "RelativeY": 451,
                         "ResizeMode": "STRETCH",
                         "style": {
