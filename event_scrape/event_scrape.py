@@ -46,7 +46,7 @@ def delete_all_events():
     try:
         ref = db.reference('events')
         ref.delete()
-        print("All event info deleted from Firebase.")
+        print("\nAll event info deleted from Firebase.\n-------------------------------------")
     except Exception as e:
         print(f"An error occurred while deleting event info from Firebase: {e}")
 
@@ -62,6 +62,7 @@ def write_to_firebase(event_info, index):
 
         name = event_details.get('name', '')
         id = event_details.get('id', '')
+        organization_id = event_details.get('organizationId', '')
 
         # Extract image server base URL and profile image path
         image_server_base_url = event_info.get('imageServerBaseUrl', '')
@@ -94,10 +95,14 @@ def write_to_firebase(event_info, index):
 
         tags.append(event_details.get('theme', ''))
 
+        # Print loading message
+        print("Writing data to Firebase...")
+
         # Create a dictionary with the extracted fields
         data = {
             "image_url": profile_image_url, 
             "id": id,
+            "organization_id": organization_id,
             "name": name,
             "description": description_text,
             "start_time": start_time,
@@ -111,7 +116,7 @@ def write_to_firebase(event_info, index):
         # Push the data dictionary to Firebase with manual key
         ref.child(str(index)).set(data)
 
-        print("Data successfully written to Firebase.")
+        print("Data successfully written to Firebase.\n--------------------------------------")
     except Exception as e:
         print(f"An error occurred while writing to Firebase: {e}")
 
