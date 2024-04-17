@@ -350,13 +350,13 @@
                     "properties": {
                         "Hint": "",
                         "CustomFont": "",
-                        "Height": 85,
-                        "Width": 169,
+                        "Height": 95,
+                        "Width": 171,
                         "Visible": true,
-                        "X": 174.99739456176758,
-                        "Y": 139.9895782470703,
-                        "RelativeX": 156,
-                        "RelativeY": 14,
+                        "X": 175.98611450195312,
+                        "Y": 134.98611450195312,
+                        "RelativeX": 156.98871994018555,
+                        "RelativeY": 8.996536254882812,
                         "ResizeMode": "STRETCH",
                         "style": {
                             "color": "rgba(0, 0, 0, 1)",
@@ -404,7 +404,7 @@
                         "underlineColorAndroid": "rgba(0, 0, 0, 0)",
                         "ParentId": "fd010418-bf8b-4466-8858-8bd0332e088d",
                         "position": "absolute",
-                        "edgeOffsets": 139.9895782470703,
+                        "edgeOffsets": 134.98611450195312,
                         "placeholder": "",
                         "Font": "Merriweather"
                     },
