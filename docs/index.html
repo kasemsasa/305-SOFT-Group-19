@@ -16,10 +16,40 @@
             text-align: center;
             width: 100%;
             margin: 0;
-            box-sizing: border-box;
-            
-            
-            
+            box-sizing: border-box; 
+        }
+        .box1{
+            background-color: white;
+            color: black;
+            padding: 10px;
+            text-align: center;
+            width: 100%;
+            margin: 0;
+            box-sizing: border-box; 
+            border-bottom: 1px solid black; /* Add this line */
+        }
+        .box2{
+            background-color: white;
+            color: black;
+            padding: 10px;
+            text-align: center;
+            width: 100%;
+            margin: 0;
+            box-sizing: border-box; 
+            border-top: 1px solid black; /* Add this line */
+            border-left: 1px solid black; /* Add this line */
+        }
+        .grid-container {
+            display: grid;
+            grid-template-columns: auto auto auto;
+            padding: 10px;
+            border: 1px solid black; /* Add this line */
+        }
+        .grid-item {
+            border: 1px solid rgba(0, 0, 0, 0.8); /* Add this line */
+            padding: 20px;
+            font-size: 15px;
+            text-align: center;
         }
     </style>
 </head>
@@ -35,14 +65,28 @@
         
         <div class="banner" style = "box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);">
             <h1 style="text-align: left; font-weight: bold; ">Where can I get Rhody Radar?</h1>
-        <p><strong>[explain how to get it and put an image of of where to get it.]</strong></p>
+        <p><strong>[explain how to get it and put an image of of where to get it.] <br> Once our app completes the testing process, it will be available to download via the Google Play Store, as shown below.<br>If you wish to try out the app yourself, click here.</strong></p>
         </div>
         
-        <h1 style="text-align: center; font-weight: bold;">How to Use Rhody Radar</h1>    
+        <h1 style="text-align: center; font-weight: bold;">How to Use Rhody Radar</h1>   
+        <div class="grid-container">
+            <div class="grid-item">
+                <p>When directed to the Welcome Screen, click "Get Started".</p>
+                <img src="assets/images/rhody-radar-transparent.png" alt="Rhody Radar Logo" alt="Image Description">
+            </div>
+            <div class="grid-item">2</div>
+            <div class="grid-item">3</div>
+            <div class="grid-item">4</div>
+            <div class="grid-item">5</div>
+            <div class="grid-item">6</div>
+            <div class="grid-item">7</div>
+            <div class="grid-item">8</div>
+            <div class="grid-item">9</div>
+          </div>
         <div class="banner" style = "box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);">
             <h1 style="text-align: center; font-weight: bold; ">Try it Yourself!</h1>
             <div style="display: flex; justify-content: center;">
-                <iframe src="https://x.thunkable.com/copy/f1e622d2b7ea5d0b0278237cc69945b5" width="500px" height="800px"></iframe>
+                <iframe src="https://thunkable.site/w/igt3_fiRENFngAeN51_WL" title="Rhody Radar" width="500px" height="800px"></iframe>
             </div>
         </div>
         <script>
