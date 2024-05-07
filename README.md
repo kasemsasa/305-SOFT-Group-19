@@ -11,6 +11,7 @@
 - [Key Metrics](#key-metrics)
 - [Cost Structure](#cost-structure)
 - [Revenue Streams](#revenue-streams)
+- [How to test our App](#testing)
 - [Contact](#contact)
 
 ## Introduction
@@ -54,6 +55,11 @@ Our primary customers are students and faculty of the University of Rhode Island
 - Sponsorships that will appear in the form of videos or blog posts that will create revenue for the app.
 - Featured content deals, where we will be collated through user data.
 - Analysis of user behavior or event attendance trends.
+
+# Testing
+- Right now our app is only open to our select internal testers.
+- If you are one of our internal testers you can find the information to download our app below.
+- https://play.google.com/apps/internaltest/4701693511875970629
 
 ## Contact
 For any inquiries or more information, please [open an issue](https://github.com/kasemsasa/305-SOFT-Group-19/issues/new) on this repository or contact us directly.
