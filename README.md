@@ -56,7 +56,7 @@ Our primary customers are students and faculty of the University of Rhode Island
 - Featured content deals, where we will be collated through user data.
 - Analysis of user behavior or event attendance trends.
 
-# Testing
+## Testing
 - Right now our app is only open to our select internal testers.
 - If you are one of our internal testers you can find the information to download our app below.
 - https://play.google.com/apps/internaltest/4701693511875970629
