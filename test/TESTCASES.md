@@ -7,3 +7,5 @@ US3: Backend Design and Setup with Firebase - https://docs.google.com/presentati
 US4: Events List - https://docs.google.com/presentation/d/14qdWte1whJLPoa6RC4GVg7EEKQurCwqOX5FYmSBoyM8/edit?usp=sharing
 
 US5: User Logout/ Password Reset - https://docs.google.com/presentation/d/1qJontdJAs6r2WZ3zwcVJIdiCNwq72avD7XEYus8Y20I/edit#slide=id.p
+
+US8: Navigation - https://docs.google.com/presentation/d/1T9ny2EIbo-ykvA5BUxT_thclFAsFVpZcOl3iooeefqg/edit#slide=id.p
