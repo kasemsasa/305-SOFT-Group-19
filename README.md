@@ -27,8 +27,8 @@ Rhody Radar integrates with existing platforms and systems used by clubs and org
 Rhody Radar is your all-in-one solution for navigating the vibrant campus life. With seamless integration across campus platforms, personalized recommendations, and a customizable dashboard, we make it effortless for students to stay informed, connect with clubs and events tailored to their interests, and never miss out on the excitement happening around them.
 
 ## Advantage
-- Dispersion of information from Instagram and university sites.
-- Existing apps or platforms specifically designed for managing and promoting campus events.
+- Aggregation of information from club websites and social media platforms, providing users with convenient access to club events and activities hosted on these platforms.
+- Integration with existing platforms specifically designed for managing and promoting campus events.
 
 ## Customer Segments
 Our primary customers are students and faculty of the University of Rhode Island (URI), focusing on undergraduates (18-22) who want to experience everything that URI has to offer.
@@ -40,10 +40,9 @@ Our primary customers are students and faculty of the University of Rhode Island
 
 ## Key Metrics
 - User Growth: Track app downloads and sign-ups.
-- Engagement: Monitor active users daily/monthly.
-- Event Interaction: Measure event attendance in-app.
+- Engagement: Monitor user weekly session duration.
+- Event Interaction: Measure event and organization following.
 - Feedback: Collect user satisfaction ratings.
-- Conversion: Track actions such as event sign-ups or referrals.
 
 ## Cost Structure
 - Development Costs (Thunkable Pro Plan)
@@ -51,18 +50,14 @@ Our primary customers are students and faculty of the University of Rhode Island
 - Potential website hosting
 
 ## Revenue Streams
-- Ad banners displayed at the bottom of the screen for user clicks that will generate revenue.
-- Sponsorships that will appear in the form of videos or blog posts that will create revenue for the app.
-- Featured content deals, where we will be collated through user data.
-- Analysis of user behavior or event attendance trends.
+- Analysis of user behavior or event and organization following trends.
 
 ## Testing
 - Right now our app is only open to our select internal testers.
-- If you are one of our internal testers you can find the information to download our app below.
-- https://play.google.com/apps/internaltest/4701693511875970629
+- If you are one of our internal testers, you can find the information to download our app [here](https://play.google.com/apps/internaltest/4701693511875970629).
 
 ## Contact
-For any inquiries or more information, please [open an issue](https://github.com/kasemsasa/305-SOFT-Group-19/issues/new) on this repository or contact us directly.
+For any inquiries or more information, please [open an issue](https://github.com/kasemsasa/305-SOFT-Group-19/issues/new) on this repository or contact us at [contact@rhodyradar.com](mailto:contact@rhodyradar.com).
 
 ---
 © 2024 Rhody Radar Team, University of Rhode Island.
