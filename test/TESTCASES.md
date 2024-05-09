@@ -10,4 +10,6 @@ US5: User Logout/ Password Reset - https://docs.google.com/presentation/d/1qJont
 
 US8: Navigation - https://docs.google.com/presentation/d/1T9ny2EIbo-ykvA5BUxT_thclFAsFVpZcOl3iooeefqg/edit#slide=id.p
 
+US9: Settings - https://docs.google.com/presentation/d/1K9c7hEt3IM450tmsdnNrlF5V0SpDQJcLRWrboe4n6Mo/edit#slide=id.p
+
 US16: Latest Events - https://docs.google.com/presentation/d/1SzjtBJtWUlVWIGHbycJUxScE8BJjN4FgKdPXo6rvlAA/edit?usp=sharing
