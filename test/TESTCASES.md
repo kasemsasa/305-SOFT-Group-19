@@ -9,3 +9,5 @@ US4: Events List - https://docs.google.com/presentation/d/14qdWte1whJLPoa6RC4GVg
 US5: User Logout/ Password Reset - https://docs.google.com/presentation/d/1qJontdJAs6r2WZ3zwcVJIdiCNwq72avD7XEYus8Y20I/edit#slide=id.p
 
 US8: Navigation - https://docs.google.com/presentation/d/1T9ny2EIbo-ykvA5BUxT_thclFAsFVpZcOl3iooeefqg/edit#slide=id.p
+
+US16: Latest Events - https://docs.google.com/presentation/d/1SzjtBJtWUlVWIGHbycJUxScE8BJjN4FgKdPXo6rvlAA/edit?usp=sharing
