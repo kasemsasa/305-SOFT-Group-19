@@ -12,4 +12,6 @@ US8: Navigation - https://docs.google.com/presentation/d/1T9ny2EIbo-ykvA5BUxT_th
 
 US9: Settings - https://docs.google.com/presentation/d/1K9c7hEt3IM450tmsdnNrlF5V0SpDQJcLRWrboe4n6Mo/edit#slide=id.p
 
+US14: Settings Screen - https://docs.google.com/presentation/d/1gq00gutiPW3qMDFmPBE9GjbCIqmOa5s4jWVUqasaJGw/edit?usp=sharing
+
 US16: Latest Events - https://docs.google.com/presentation/d/1SzjtBJtWUlVWIGHbycJUxScE8BJjN4FgKdPXo6rvlAA/edit?usp=sharing
