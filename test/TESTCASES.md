@@ -14,4 +14,6 @@ US9: Settings - https://docs.google.com/presentation/d/1K9c7hEt3IM450tmsdnNrlF5V
 
 US14: Settings Screen - https://docs.google.com/presentation/d/1gq00gutiPW3qMDFmPBE9GjbCIqmOa5s4jWVUqasaJGw/edit?usp=sharing
 
+US15: Create Welcome Screen - https://docs.google.com/presentation/d/1xiZF_xWJNWbzRHcfiGrBB9qiPSsvmUfBkkbxXFRSuXY/edit?usp=sharing
+
 US16: Latest Events - https://docs.google.com/presentation/d/1SzjtBJtWUlVWIGHbycJUxScE8BJjN4FgKdPXo6rvlAA/edit?usp=sharing
